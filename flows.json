@@ -1,0 +1,681 @@
+[
+    {
+        "id": "5c58417aa6663f90",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7db9b338d70fa411",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "apiCallerCountry",
+        "func": "const apiKey = 'removed';\nconst latitude = msg.lat;\nconst longitude = msg.long;\nconst url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${apiKey}`;\n\nmsg.payload = url;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 240,
+        "wires": [
+            [
+                "05f18197d6a50070"
+            ]
+        ]
+    },
+    {
+        "id": "05f18197d6a50070",
+        "type": "http request",
+        "z": "5c58417aa6663f90",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "{{{payload}}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 930,
+        "y": 240,
+        "wires": [
+            [
+                "0886d351a477285b"
+            ]
+        ]
+    },
+    {
+        "id": "0886d351a477285b",
+        "type": "json",
+        "z": "5c58417aa6663f90",
+        "name": "location",
+        "property": "payload",
+        "action": "obj",
+        "pretty": true,
+        "x": 1080,
+        "y": 240,
+        "wires": [
+            [
+                "1ed99f04a8619107"
+            ]
+        ]
+    },
+    {
+        "id": "1ed99f04a8619107",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "getCountry",
+        "func": "const results = msg.payload.results;\n\n// --------------------------------------------------------------------\n// check for empty result\nif (!results || results.length === 0) {\n    node.warn(\"No Google results in payload\");\n    return msg;\n}\n\nconst components = results[0].address_components;\nif (!components || components.length === 0) {\n    node.warn(\"No address_components found in first result\");\n    return msg;\n}\n\nconst country = components.find(c => c.types.includes(\"country\"));\n\nif (!country) {\n    node.warn(\"No country found in address_components\");\n    return msg;\n}\n// --------------------------------------------------------------------\n\nif (results && results.length > 0) {\n    let components = results[0].address_components;\n    let country = components.find(c => c.types.includes('country'));\n\n    if (country) {\n        msg.payload.country = country.long_name;\n        flow.set(\"country\", country.long_name);\n        node.warn(\"Country saved: \" + country.long_name);\n    }\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1230,
+        "y": 240,
+        "wires": [
+            [
+                "673cd0c1048e6a25"
+            ]
+        ]
+    },
+    {
+        "id": "2647f0f4bc095197",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "createQuizAI",
+        "func": "const OpenAI = global.get(\"openai\");\nconst apiKey = 'removed';\n const client = new OpenAI({ apiKey: apiKey });\n\n// temp var for now\nconst country = msg.payload.country;\n\nconst response = await client.responses.create({\n  model: 'gpt-4',\n  input: `Create a quiz for 13-16 year olds with two questions and four options each based on the country ${country}. Return only JSON with an array of objects, where each object have a 'question' key,\n  and an 'answers' key with an array that includes objects with 'answer' and 'correct': true/false as keys. If answer is correct, explain about it/be interesting within an 'explanation' key (max two sentences).\n  Please create questions that are more interesting than \"what is x language in this country?\". Have some variety.`,\n});\n\nconsole.log('ChatGPT is querying...');\nmsg.payload = response.output_text;\nconsole.log(msg.payload);\n\n/*\ngeneral JSON structure:\n{\n  \"quiz\": [\n    {\n      \"question\": \"What is the capital of Norway?\",\n      \"answers\": [\n        {\n          \"answer\": \"Stockholm\",\n          \"correct\": false\n        },\n        {\n          \"answer\": \"Copenhagen\",\n          \"correct\": false\n        },\n        {\n          \"answer\": \"Oslo\",\n          \"correct\": true,\n          \"explanation\": \"blablabla\"\n        },\n        {\n          \"answer\": \"Helsinki\",\n          \"correct\": false\n        }\n      ]\n    },\n    {\n      \"question\": \"What is Norway famous for?\",\n      \"answers\": [\n        {\n          \"answer\": \"Fjords\",\n          \"correct\": true,\n          \"explanation\": \"blablabla\"\n        },\n        {\n          \"answer\": \"Pizza\",\n          \"correct\": false\n        },\n        {\n          \"answer\": \"Colosseum\",\n          \"correct\": false\n        },\n        {\n          \"answer\": \"Pyramids\",\n          \"correct\": false\n        }\n      ]\n    }\n  ]\n}\n*/\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "OpenAi",
+                "module": "openai"
+            }
+        ],
+        "x": 1370,
+        "y": 440,
+        "wires": [
+            [
+                "3ff69b2e80f4f070"
+            ]
+        ]
+    },
+    {
+        "id": "3ff69b2e80f4f070",
+        "type": "json",
+        "z": "5c58417aa6663f90",
+        "name": "quizData",
+        "property": "payload",
+        "action": "obj",
+        "pretty": false,
+        "x": 1520,
+        "y": 440,
+        "wires": [
+            [
+                "c270bfc42412de35"
+            ]
+        ]
+    },
+    {
+        "id": "714b2456d43d875e",
+        "type": "switch",
+        "z": "5c58417aa6663f90",
+        "name": "modeRouting",
+        "property": "payload.type",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "invention",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "quiz",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "about",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 3,
+        "x": 1110,
+        "y": 480,
+        "wires": [
+            [
+                "504620ce36b1c3ac"
+            ],
+            [
+                "2647f0f4bc095197"
+            ],
+            [
+                "2454caecaf10cc65"
+            ]
+        ]
+    },
+    {
+        "id": "a5b0a107d58ea2a8",
+        "type": "comment",
+        "z": "5c58417aa6663f90",
+        "name": "creating quiz with OpenAi",
+        "info": "",
+        "x": 1410,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "3ca21755f391f89e",
+        "type": "debug",
+        "z": "5c58417aa6663f90",
+        "name": "debug 3",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1800,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "e993c66bec2c6c4a",
+        "type": "comment",
+        "z": "5c58417aa6663f90",
+        "name": "note",
+        "info": "Norway: (62, 10)\nSwitzerland: (46, 8)\nGermany: (50, 7)",
+        "x": 90,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "7c1298fd2aceead2",
+        "type": "socketio-emitter",
+        "z": "5c58417aa6663f90",
+        "name": "newData",
+        "x": 1780,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "5b1c051ba24a274e",
+        "type": "socketio-connector",
+        "z": "5c58417aa6663f90",
+        "server": "4ba1c6805b66ab54",
+        "namespace": "",
+        "transport": "",
+        "name": "connector",
+        "x": 520,
+        "y": 420,
+        "wires": [
+            [
+                "bd479a158859d63f"
+            ]
+        ]
+    },
+    {
+        "id": "c270bfc42412de35",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "data",
+        "func": "const country = flow.get(\"country\");\n\nmsg.payload = {\n    type: \"quiz\",\n    country,\n    questions: msg.payload, // quiz data\n    loading: false\n};\n\n// data for Socket.IO\nmsg.connectionName = 'connector';\nmsg.eventName = 'newData';\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1650,
+        "y": 440,
+        "wires": [
+            [
+                "3ca21755f391f89e",
+                "7c1298fd2aceead2"
+            ]
+        ]
+    },
+    {
+        "id": "504620ce36b1c3ac",
+        "type": "http request",
+        "z": "5c58417aa6663f90",
+        "name": "fetch inventions from country",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://localhost:3000/api/inventions/{{{payload.country}}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1400,
+        "y": 340,
+        "wires": [
+            [
+                "9da5f28b127797e9"
+            ]
+        ]
+    },
+    {
+        "id": "9da5f28b127797e9",
+        "type": "json",
+        "z": "5c58417aa6663f90",
+        "name": "inventions",
+        "property": "payload",
+        "action": "obj",
+        "pretty": true,
+        "x": 1600,
+        "y": 340,
+        "wires": [
+            [
+                "15c4007fb75e93ee"
+            ]
+        ]
+    },
+    {
+        "id": "15c4007fb75e93ee",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "getRandomInvention",
+        "func": "const obj = msg.payload;\n\nif (obj.error) {\n    msg.payload = \"Error\";\n    return msg;\n} \n\nconst length = obj.inventions.length;\nconst randomIdx = Math.floor(Math.random() * length);\n\n// just consoles to confirm payload\nconsole.log(obj.inventions[randomIdx]);\nconsole.log(msg.country);\n\n// data for Socket.IO\nmsg.connectionName = 'connector';\nmsg.eventName = 'newData';\n\nconst country = flow.get(\"country\");\n\nmsg.payload = {\n    type: \"invention\",\n    country,\n    invention: obj.inventions[randomIdx],\n    loading: false\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1780,
+        "y": 340,
+        "wires": [
+            [
+                "a750d315f4593350"
+            ]
+        ]
+    },
+    {
+        "id": "a750d315f4593350",
+        "type": "socketio-emitter",
+        "z": "5c58417aa6663f90",
+        "name": "newData",
+        "x": 1960,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "bd479a158859d63f",
+        "type": "socketio-listener",
+        "z": "5c58417aa6663f90",
+        "eventname": "requestData",
+        "name": "requestData",
+        "x": 530,
+        "y": 480,
+        "wires": [
+            [
+                "673cd0c1048e6a25"
+            ]
+        ]
+    },
+    {
+        "id": "3b1a0c10d8b84393",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "attachCoordinates",
+        "func": "const coords = flow.get(\"coordinates\");\n\nif (!coords) {\n node.warn(\"No coordinates available yet\");\n return null;\n}\n\nif (!msg.payload) {\n msg.payload = {};\n}\n\n// attach coordinates\nmsg.payload.coordinates = coords;\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 240,
+        "wires": [
+            [
+                "7db9b338d70fa411"
+            ]
+        ]
+    },
+    {
+        "id": "9111c10cfbd89a32",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "saveCoordinates",
+        "func": "const coords = {\n lat: msg.payload.lat,\n lng: msg.payload.long\n};\n\nflow.set(\"coordinates\", coords);\n\n// node.warn(\"Coordinates saved: \" + JSON.stringify(coords));\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 360,
+        "wires": [
+            [
+                "6c80d6de8574a1cb"
+            ]
+        ]
+    },
+    {
+        "id": "673cd0c1048e6a25",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "checkPendingRequests",
+        "func": "/*\nconst country = flow.get(\"country\");\nif (!country) return null;\n\nconst types = [\"quiz\", \"about\", \"invention\"];\ntypes.forEach((type) => {\n    msg.payload = {\n        type,\n        country\n    };\n\n    msg.loading = false;\n    msg.connectionName = \"connector\";\n    msg.eventName = \"newData\";\n    node.send(msg);\n});\n\n-----\nconst requestedType = msg.payload?.type; // sent from frontend\nif (!requestedType) return null;\n\nmsg.payload = { type: requestedType, country };\nmsg.loading = false;\nmsg.connectionName = \"connector\";\nmsg.eventName = \"newData\";\nnode.send(msg);\n*/\n\n// Store type if it came in\nnode.warn(\"msg.payload.type: \" + msg.payload.type);\nif (msg.payload?.type) {\n  flow.set(\"type\", msg.payload.type);\n}\n\nnode.warn(\"msg.payload.country: \" + msg.payload.country);\n// Store country if it came in\nif (msg.payload?.country) {\n  flow.set(\"country\", msg.payload.country);\n}\n\n// Pull latest values\nconst type = flow.get(\"type\");\nconst country = flow.get(\"country\");\n\nnode.warn(\"type, country: \" + type + \" - \" + country);\n\n// Only requirement\nif (!type || !country) {\n  return null;\n}\n\n// Ready to proceed\nmsg.payload = { type, country };\nmsg.connectionName = \"connector\";\nmsg.eventName = \"newData\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 770,
+        "y": 480,
+        "wires": [
+            [
+                "6f3591c6289f192d"
+            ]
+        ]
+    },
+    {
+        "id": "6e904312308386b3",
+        "type": "socketio-emitter",
+        "z": "5c58417aa6663f90",
+        "name": "loading",
+        "x": 780,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "6c80d6de8574a1cb",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "setLoading",
+        "func": "msg.payload = {\n    loading: true,\n    type: flow.get(\"type\"),     \n    country: flow.get(\"country\") \n};\n\nmsg.connectionName = \"connector\";\nmsg.eventName = \"loading\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 360,
+        "wires": [
+            [
+                "3b1a0c10d8b84393",
+                "6e904312308386b3",
+                "6731d2e68a9481cf"
+            ]
+        ]
+    },
+    {
+        "id": "5e6cd85ec22bd368",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "controls",
+        "func": "const action = msg?.payload?.action;\n\nif ([\"up\", \"down\", \"left\", \"right\", \"select\",\n\"invention\", \"quiz\", \"about\",\n\"A\", \"B\", \"C\", \"D\"].includes(action)) {\n    msg.payload = { action };\n} else {\n    msg.payload = { action: \"unknown\" };\n}\n\nmsg.connectionName = \"connector\";\nmsg.eventName = \"control\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 560,
+        "wires": [
+            [
+                "5e5740a38fd63bc0"
+            ]
+        ]
+    },
+    {
+        "id": "5e5740a38fd63bc0",
+        "type": "socketio-emitter",
+        "z": "5c58417aa6663f90",
+        "name": "control",
+        "x": 750,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "566b2da7f04fd827",
+        "type": "debug",
+        "z": "5c58417aa6663f90",
+        "name": "debug 1",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1160,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "2454caecaf10cc65",
+        "type": "http request",
+        "z": "5c58417aa6663f90",
+        "name": "fetch country information",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://localhost:3000/api/countries/{{{payload.country}}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1330,
+        "y": 540,
+        "wires": [
+            [
+                "d18dfb0b461bfb67"
+            ]
+        ]
+    },
+    {
+        "id": "d18dfb0b461bfb67",
+        "type": "json",
+        "z": "5c58417aa6663f90",
+        "name": "countryData",
+        "property": "payload",
+        "action": "obj",
+        "pretty": true,
+        "x": 1530,
+        "y": 540,
+        "wires": [
+            [
+                "73fe951cdcc1597f"
+            ]
+        ]
+    },
+    {
+        "id": "73fe951cdcc1597f",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "data",
+        "func": "const country = flow.get(\"country\");\n\nmsg.payload = {\n    type: \"about\",\n    country,\n    information: msg.payload,\n    loading: false\n};\n\n// data for Socket.IO\nmsg.connectionName = 'connector';\nmsg.eventName = 'newData';\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1670,
+        "y": 540,
+        "wires": [
+            [
+                "adb37117fd751236"
+            ]
+        ]
+    },
+    {
+        "id": "adb37117fd751236",
+        "type": "socketio-emitter",
+        "z": "5c58417aa6663f90",
+        "name": "newData",
+        "x": 1800,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "6731d2e68a9481cf",
+        "type": "debug",
+        "z": "5c58417aa6663f90",
+        "name": "does it load???",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "6f3591c6289f192d",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "send",
+        "func": "// pull latest values\nconst type = flow.get(\"type\");\nconst country = flow.get(\"country\");\n\nmsg.payload = { type, country };\nmsg.connectionName = \"connector\";\nmsg.eventName = \"newData\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 480,
+        "wires": [
+            [
+                "714b2456d43d875e"
+            ]
+        ]
+    },
+    {
+        "id": "b37af79fe0712131",
+        "type": "http in",
+        "z": "5c58417aa6663f90",
+        "name": "HTTPCoordsIn",
+        "url": "/coords",
+        "method": "post",
+        "upload": false,
+        "skipBodyParsing": false,
+        "swaggerDoc": "",
+        "x": 80,
+        "y": 460,
+        "wires": [
+            [
+                "d799bde2ee8d5cce"
+            ]
+        ]
+    },
+    {
+        "id": "d799bde2ee8d5cce",
+        "type": "json",
+        "z": "5c58417aa6663f90",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 110,
+        "y": 520,
+        "wires": [
+            [
+                "a59577348972434f",
+                "f288c0d8c258d497",
+                "9111c10cfbd89a32"
+            ]
+        ]
+    },
+    {
+        "id": "a59577348972434f",
+        "type": "debug",
+        "z": "5c58417aa6663f90",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 240,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "8a9f4cad1001b319",
+        "type": "http response",
+        "z": "5c58417aa6663f90",
+        "name": "HTTPResponse",
+        "statusCode": "200",
+        "headers": {},
+        "x": 440,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "f288c0d8c258d497",
+        "type": "function",
+        "z": "5c58417aa6663f90",
+        "name": "function 1",
+        "func": "msg.payload = { status: \"ok\", received: msg.payload };\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 300,
+        "y": 560,
+        "wires": [
+            [
+                "8a9f4cad1001b319"
+            ]
+        ]
+    },
+    {
+        "id": "4ba1c6805b66ab54",
+        "type": "socketio-config",
+        "host": "http://localhost",
+        "port": "3000",
+        "path": "",
+        "reconnection": true
+    },
+    {
+        "id": "1a6b695e5f238999",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-contrib-chi-socketio": "0.4.22"
+        }
+    }
+]
