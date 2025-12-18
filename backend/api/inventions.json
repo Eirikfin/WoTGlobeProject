@@ -1,0 +1,3241 @@
+[
+	{
+		"country": "Norway",
+		"inventions": [
+			{
+				"name": "Cheese Slicer",
+				"inventor": "Thor Bjørklund",
+				"year": "1925",
+				"information": {
+					"general": "In 1925, Thor Bjørklund designed the cheese slicer to make even, thin slices of cheese effortlessly.",
+					"description": "He crafted it from wood and steel, with a wire stretched across a flat blade. It glides through semi-hard cheeses like Edam or brunost, turning a tedious task into a quick, precise motion.",
+					"extra": "Bjørklund's inspiration came from the carpenter's plane he used in his workshop. He also experimented with a butter slicer, which failed, but his cheese slicer became a European and Brazilian kitchen classic."
+				},
+				"image": "images/inventions/europe/norway/cheese_slicer.webp"
+			},
+			{
+				"name": "Paper Clip",
+				"inventor": "Johan Vaaler",
+				"year": "1899",
+				"information": {
+					"general": "In 1899, Johan Vaaler invented the paper clip to hold sheets together neatly without damaging them.",
+					"description": "Made from bent wire, it creates tension that keeps papers aligned. Vaaler's design was simple yet ingeniously effective.",
+					"extra": "The idea reportedly came from the need to manage documents in offices efficiently. Later refinements improved durability, and today it's a ubiquitous office tool worldwide."
+				},
+				"image": "images/inventions/europe/norway/paper_clip.webp"
+			},
+			{
+				"name": "Clip-on Ski Binding",
+				"inventor": "Bruno R. Linge",
+				"year": "1920s",
+				"information": {
+					"general": "In the 1920s, Bruno Linge developed the first clip-on ski binding to improve skiing safety.",
+					"description": "Constructed from metal and leather, the binding securely fastens boots to skis, offering control while reducing the risk of falls.",
+					"extra": "Linge was inspired by the growing popularity of skiing in Norway. His invention influenced modern ski bindings and made the sport more accessible and safer."
+				},
+				"image": "images/inventions/europe/norway/ski_binding.webp"
+			}
+		]
+	},
+	{
+		"country": "Italy",
+		"inventions": [
+			{
+				"name": "Piano",
+				"inventor": "Bartolomeo Cristofori",
+				"year": "c. 1700",
+				"information": {
+					"general": "Around 1700, Bartolomeo Cristofori created the piano to allow musicians to play both soft and loud notes.",
+					"description": "He engineered hammers to strike strings, giving the keyboard expressive power. Cristofori's use of hardwood, metal strings, and precise mechanics produced rich tones and dynamic range.",
+					"extra": "Inspired by the limitations of the harpsichord, he experimented with action mechanisms over decades. His designs evolved into the grand and upright pianos that define modern music halls and home instruments."
+				},
+				"image": "images/inventions/europe/italy/piano.webp"
+			},
+			{
+				"name": "Eyeglasses",
+				"inventor": "Salvino D'Armate",
+				"year": "c. 1280",
+				"information": {
+					"general": "Salvino D'Armate is credited with making the first wearable eyeglasses in Italy around 1280.",
+					"description": "Using convex lenses set in wood or metal frames balanced on the nose, these early spectacles improved vision for reading and work.",
+					"extra": "The inspiration likely came from monks and scholars needing to read manuscripts. Over centuries, frame and lens materials advanced, spreading eyeglasses across Europe and evolving into countless modern designs."
+				},
+				"image": "images/inventions/europe/italy/eyeglasses.webp"
+			},
+			{
+				"name": "Pasta Machine",
+				"inventor": "Angelo Vitantonio",
+				"year": "1800s",
+				"information": {
+					"general": "In the 19th century, Angelo Vitantonio built a mechanized pasta machine to streamline pasta preparation.",
+					"description": "Made with metal rollers and cutting blades, it produces even pasta sheets quickly. The machine saves hours of labor compared to hand-rolling dough.",
+					"extra": "Inspired by Italy's love for fresh pasta, Vitantonio refined his design through trial and error. His invention spread widely, laying the foundation for modern pasta machines used in kitchens worldwide."
+				},
+				"image": "images/inventions/europe/italy/pasta_machine.webp"
+			}
+		]
+	},
+	{
+		"country": "Germany",
+		"inventions": [
+			{
+				"name": "Printing Press",
+				"inventor": "Johannes Gutenberg",
+				"year": "1440s",
+				"information": {
+					"general": "In the 1440s, Johannes Gutenberg of Germany invented the movable type printing press. He aimed to make book production faster and more affordable.",
+					"description": "The printing press allowed mass production of books, spreading knowledge, ideas, and literacy across Europe. Before it, books had to be copied by hand, which was slow and expensive.",
+					"extra": "Gutenberg's invention changed the world, enabling the Renaissance, Reformation, and scientific revolution by making ideas accessible to many people for the first time."
+				},
+				"image": "images/inventions/europe/germany/printing_press.webp"
+			},
+			{
+				"name": "Automobile",
+				"inventor": "Karl Benz",
+				"year": "1885",
+				"information": {
+					"general": "Karl Benz of Germany is credited with inventing the first practical automobile powered by an internal combustion engine.",
+					"description": "The Benz Patent-Motorwagen is considered the world's first real car, marking the beginning of modern transportation as we know it today.",
+					"extra": "This invention transformed how humans travel, trade, and design cities, eventually shaping the entire global automotive industry."
+				},
+				"image": "images/inventions/europe/germany/automobile.webp"
+			},
+			{
+				"name": "X-ray Machine",
+				"inventor": "Wilhelm Conrad Röntgen",
+				"year": "1895",
+				"information": {
+					"general": "Wilhelm Conrad Röntgen discovered X-rays while experimenting with cathode rays in Germany.",
+					"description": "This discovery made it possible to see inside the human body without surgery, revolutionizing medical diagnostics.",
+					"extra": "X-ray technology became one of the most important tools in medicine, science, and security worldwide."
+				},
+				"image": "images/inventions/europe/germany/xray_machine.webp"
+			}
+		]
+	},
+	{
+		"country": "United Kingdom",
+		"inventions": [
+			{
+				"name": "Steam Engine",
+				"inventor": "James Watt",
+				"year": "1765",
+				"information": {
+					"general": "In 1765, Scottish engineer James Watt improved the steam engine to make it more efficient and practical for industry.",
+					"description": "The steam engine powered machines, trains, and ships, changing how goods were made and transported. It fueled the Industrial Revolution across Britain and the world.",
+					"extra": "Watt's enhancements allowed engines to use less fuel and generate more power. His work helped industries grow rapidly and shaped modern economies."
+				},
+				"image": "images/inventions/europe/uk/steam_engine.webp"
+			},
+			{
+				"name": "World Wide Web",
+				"inventor": "Tim Berners-Lee",
+				"year": "1989",
+				"information": {
+					"general": "British computer scientist Tim Berners-Lee invented the World Wide Web while working at CERN.",
+					"description": "The World Wide Web made it possible to access and share information through websites connected by hyperlinks.",
+					"extra": "It revolutionized how people learn, communicate, work, and access information across the entire globe."
+				},
+				"image": "images/inventions/europe/uk/world_wide_web.webp"
+			},
+			{
+				"name": "Jet Engine",
+				"inventor": "Frank Whittle",
+				"year": "1937",
+				"information": {
+					"general": "British engineer Frank Whittle developed the first practical turbojet engine.",
+					"description": "The jet engine allowed aircraft to travel significantly faster and higher than before.",
+					"extra": "This invention transformed aviation, making modern commercial and military flight possible."
+				},
+				"image": "images/inventions/europe/uk/jet_engine.webp"
+			}
+		]
+	},
+	{
+		"country": "Colombia",
+		"inventions": [
+			{
+				"name": "Haptx / Force-Feedback Glove Prototype",
+				"inventor": "Juan David Wills",
+				"year": "2014",
+				"information": {
+					"general": "In 2014, Colombian engineer Juan David Wills built an early prototype of a force-feedback glove that later contributed to the technology behind modern haptic VR systems.",
+					"description": "The prototype used pneumatic micro-valves and lightweight actuators to simulate pressure and touch sensations. It allowed users to feel resistance while interacting with virtual objects, a major step toward immersive VR experiences.",
+					"extra": "Wills' early experiments were developed in Bogotá with limited resources. His research later influenced commercial haptic devices used in medical training, remote robotics, and immersive gaming."
+				},
+				"image": "images/inventions/south_america/colombia/haptic_glove.webp"
+			},
+			{
+				"name": "Expandable Heart Stent",
+				"inventor": "Jorge Reynolds Pombo",
+				"year": "1960s",
+				"information": {
+					"general": "Colombian engineer Jorge Reynolds helped develop early versions of the expandable heart stent while researching cardiovascular implants.",
+					"description": "The device is a tiny mesh cylinder inserted into blocked arteries. Once positioned, it expands to keep blood vessels open, improving circulation and reducing the risk of heart attacks.",
+					"extra": "Reynolds is also famous for creating one of the world's first external pacemakers. His work contributed greatly to modern biomedical engineering in Latin America."
+				},
+				"image": "images/inventions/south_america/colombia/heart_stent.webp"
+			},
+			{
+				"name": "Antioquia Coffee Pulper",
+				"inventor": "Luis Eduardo Álvarez",
+				"year": "1940s",
+				"information": {
+					"general": "In the 1940s, Colombian inventor Luis Eduardo Álvarez designed a mechanical coffee pulper that automated the removal of coffee cherry skins.",
+					"description": "Made from metal drums and a rotating abrasive surface, the machine quickly separated beans from pulp, reducing labor and improving consistency in coffee processing.",
+					"extra": "The invention became widely adopted in rural Antioquia. It increased productivity for small farmers and helped raise the quality of Colombia's globally renowned coffee industry."
+				},
+				"image": "images/inventions/south_america/colombia/coffee_pulper.webp"
+			}
+		]
+	},
+	{
+		"country": "France",
+		"inventions": [
+			{
+				"name": "Hot Air Balloon",
+				"inventor": "Montgolfier Brothers",
+				"year": "1783",
+				"information": {
+					"general": "In 1783, the Montgolfier brothers in France launched the first successful hot air balloon, marking humanity's first flight.",
+					"description": "The balloon lifted people and objects into the air using heated air. It inspired fascination with flight and exploration of the skies.",
+					"extra": "The Montgolfiers experimented with different materials and sizes, eventually carrying passengers safely. Ballooning became a popular spectacle in Europe and laid groundwork for aviation."
+				},
+				"image": "images/inventions/europe/france/hot_air_balloon.webp"
+			},
+			{
+				"name": "Pasteurization",
+				"inventor": "Louis Pasteur",
+				"year": "1864",
+				"information": {
+					"general": "In 1864, Louis Pasteur developed the process of pasteurization to kill harmful microbes in liquids like milk and wine.",
+					"description": "The method involves heating liquids to a specific temperature for a set time to destroy bacteria without affecting flavor. It drastically improved food safety and public health.",
+					"extra": "Pasteurization is still used worldwide today for dairy, juice, and other perishable liquids, preventing countless illnesses and saving millions of lives."
+				},
+				"image": "images/inventions/europe/france/pasteurization.webp"
+			},
+			{
+				"name": "Braille System",
+				"inventor": "Louis Braille",
+				"year": "1824",
+				"information": {
+					"general": "In 1824, Louis Braille, a blind Frenchman, invented the Braille system for reading and writing for visually impaired people.",
+					"description": "The system uses patterns of raised dots representing letters, numbers, and punctuation. It allowed blind individuals to read independently and access education.",
+					"extra": "Braille revolutionized literacy for the blind, becoming a universal tactile writing system used in schools, libraries, and everyday life worldwide."
+				},
+				"image": "images/inventions/europe/france/braille.webp"
+			}
+		]
+	},
+	{
+		"country": "Greece",
+		"inventions": [
+			{
+				"name": "Olympic Flame / Torch Relay",
+				"inventor": "Ancient Greeks (Olympic organizers)",
+				"year": "776 BCE",
+				"information": {
+					"general": "A ceremonial flame lit to honor the gods and symbolize the continuity of the Olympic Games.",
+					"description": "The torch was carried in a relay from Olympia to the host city, a tradition to demonstrate unity, endurance, and respect.",
+					"extra": "Modern Olympic torch relays are inspired directly by this ancient Greek invention, blending culture and sportsmanship."
+				},
+				"image": "images/inventions/europe/greece/olympic_flame.webp"
+			},
+			{
+				"name": "Water Mill",
+				"inventor": "Ancient Greek Engineers",
+				"year": "3rd Century BCE",
+				"information": {
+					"general": "The Greeks were among the first to use water-powered mills to grind grain into flour.",
+					"description": "Flowing water turned a wheel connected to grinding stones, replacing manual labor with mechanical energy.",
+					"extra": "This innovation became the foundation for later industrial machines and energy use in Europe and beyond."
+				},
+				"image": "images/inventions/europe/greece/water_mill.webp"
+			},
+			{
+				"name": "Archimedes' Screw",
+				"inventor": "Archimedes",
+				"year": "3rd Century BCE",
+				"information": {
+					"general": "Archimedes invented a device for raising water for irrigation and drainage purposes.",
+					"description": "The screw-shaped device rotates inside a pipe or cylinder, lifting water upward as it turns.",
+					"extra": "It is still used today in agriculture and water management systems around the world."
+				},
+				"image": "images/inventions/europe/greece/archimedes_screw.webp"
+			}
+		]
+	},
+	{
+		"country": "Russia",
+		"inventions": [
+			{
+				"name": "Periodic Table of Elements",
+				"inventor": "Dmitri Mendeleev",
+				"year": "1869",
+				"information": {
+					"general": "A systematic arrangement of chemical elements based on their atomic number, electron configurations, and recurring chemical properties.",
+					"description": "Mendeleev organized elements so that elements with similar properties fell into vertical columns, predicting the existence and properties of elements yet to be discovered.",
+					"extra": "This table forms the foundation of modern chemistry and is still used worldwide for scientific research and education."
+				},
+				"image": "images/inventions/europe/russia/periodic_table.webp"
+			},
+			{
+				"name": "First Practical Helicopter",
+				"inventor": "Igor Sikorsky",
+				"year": "1939",
+				"information": {
+					"general": "Sikorsky developed one of the first successful single-rotor helicopters capable of controlled flight.",
+					"description": "His design combined a main rotor for lift and a tail rotor for stability, setting the blueprint for most modern helicopters.",
+					"extra": "Sikorsky's work revolutionized aviation, enabling vertical takeoff and landing, search-and-rescue operations, and military transport."
+				},
+				"image": "images/inventions/europe/russia/helicopter.webp"
+			},
+			{
+				"name": "Tetris",
+				"inventor": "Alexey Pajitnov",
+				"year": "1984",
+				"information": {
+					"general": "A tile-matching puzzle video game that became one of the most popular and influential games in history.",
+					"description": "Players rotate and place falling shapes called tetrominoes to complete horizontal lines without gaps, which then disappear, scoring points.",
+					"extra": "Tetris has been adapted to nearly every gaming platform and is considered a cultural icon worldwide."
+				},
+				"image": "images/inventions/europe/russia/tetris.webp"
+			}
+		]
+	},
+	{
+		"country": "Spain",
+		"inventions": [
+			{
+				"name": "Chupa Chups (Lollipop)",
+				"inventor": "Enric Bernat",
+				"year": "1958",
+				"information": {
+					"general": "A popular lollipop on a stick, designed to make candy easier and cleaner to eat for children.",
+					"description": "Bernat invented the idea of putting candy on a stick so it could be enjoyed without sticky fingers, revolutionizing the candy industry.",
+					"extra": "The brand logo was famously designed by Salvador Dalí, and Chupa Chups became a global phenomenon."
+				},
+				"image": "images/inventions/europe/spain/chupa_chups.webp"
+			},
+			{
+				"name": "Table Football (Foosball)",
+				"inventor": "Valentin Gomez",
+				"year": "1937",
+				"information": {
+					"general": "A tabletop game simulating association football, played by manipulating rods with attached figures to hit a small ball into the opponent's goal.",
+					"description": "Gomez's design popularized the game in Spain and beyond, making it a widely played recreational activity in homes, bars, and clubs.",
+					"extra": "Modern foosball tables have evolved in design and rules, but the basic Spanish-invented concept remains the same worldwide."
+				},
+				"image": "images/inventions/europe/spain/table_football.webp"
+			},
+			{
+				"name": "Modern Classical Acoustic Guitar",
+				"inventor": "Antonio de Torres Jurado",
+				"year": "1850s",
+				"information": {
+					"general": "The modern design of the classical acoustic guitar, with a larger body, fan bracing, and improved resonance.",
+					"description": "Torres standardized the guitar's shape and internal bracing, improving volume, tone, and playability, forming the basis of modern classical and flamenco guitars.",
+					"extra": "His designs influenced luthiers worldwide and are still followed in modern guitar making."
+				},
+				"image": "images/inventions/europe/spain/acoustic_guitar.webp"
+			}
+		]
+	},
+	{
+		"country": "United States",
+		"inventions": [
+			{
+				"name": "Telephone",
+				"inventor": "Alexander Graham Bell",
+				"year": "1876",
+				"information": {
+					"general": "In 1876, Alexander Graham Bell invented the telephone to transmit voice over long distances.",
+					"description": "Using wires, a diaphragm, and electromagnetic coils, it converted sound into electrical signals for instant communication.",
+					"extra": "Inspired by his work on hearing devices, Bell experimented tirelessly with circuits until the first call rang through."
+				},
+				"image": "images/inventions/north_america/united_states/telephone.webp"
+			},
+			{
+				"name": "Light Bulb",
+				"inventor": "Thomas Edison",
+				"year": "1879",
+				"information": {
+					"general": "In 1879, Thomas Edison successfully developed a practical and long-lasting electric light bulb.",
+					"description": "The bulb used a carbon filament in a vacuum to produce light efficiently and reliably for home and industrial use.",
+					"extra": "Edison tested thousands of materials for the filament before finding one that could burn long enough to be commercially viable."
+				},
+				"image": "images/inventions/north_america/united_states/light_bulb.webp"
+			},
+			{
+				"name": "Airplane",
+				"inventor": "Wright Brothers",
+				"year": "1903",
+				"information": {
+					"general": "In 1903, Orville and Wilbur Wright made the first controlled, sustained flight of a powered aircraft.",
+					"description": "Their airplane, the Wright Flyer, used a lightweight engine and movable control surfaces to achieve lift and stability.",
+					"extra": "The Wright brothers' experimentation with gliders, wind tunnels, and control mechanisms paved the way for modern aviation."
+				},
+				"image": "images/inventions/north_america/united_states/airplane.webp"
+			}
+		]
+	},
+	{
+		"country": "Canada",
+		"inventions": [
+			{
+				"name": "Insulin",
+				"inventor": "Frederick Banting and Charles Best",
+				"year": "1921",
+				"information": {
+					"general": "In 1921, Banting and Best discovered insulin to treat diabetes, saving countless lives.",
+					"description": "They extracted it from animal pancreases and purified it so it could regulate blood sugar safely.",
+					"extra": "Their experiments combined surgical skill and chemistry, laying the foundation for modern diabetes care."
+				},
+				"image": "images/inventions/north_america/canada/insulin.webp"
+			},
+			{
+				"name": "IMAX",
+				"inventor": "Graeme Ferguson, Roman Kroitor, Robert Kerr, William C. Shaw",
+				"year": "1967",
+				"information": {
+					"general": "IMAX, developed in Canada in 1967, revolutionized large-format cinema with ultra-high-resolution film.",
+					"description": "The system uses larger film frames and advanced projection techniques to immerse audiences in lifelike visuals.",
+					"extra": "IMAX theaters are now globally recognized for their ability to deliver intense, immersive movie experiences."
+				},
+				"image": "images/inventions/north_america/canada/imax.webp"
+			},
+			{
+				"name": "Electric Wheelchair",
+				"inventor": "George Klein",
+				"year": "1950s",
+				"information": {
+					"general": "Canadian inventor George Klein created the first practical electric wheelchair to improve mobility for disabled veterans.",
+					"description": "Using a motorized system, the chair allowed users to move independently, transforming rehabilitation and accessibility.",
+					"extra": "Klein's innovation laid the groundwork for modern powered mobility devices used worldwide today."
+				},
+				"image": "images/inventions/north_america/canada/electric_wheelchair.webp"
+			}
+		]
+	},
+	{
+		"country": "Mexico",
+		"inventions": [
+			{
+				"name": "Color TV (early system)",
+				"inventor": "Guillermo González Camarena",
+				"year": "1940",
+				"information": {
+					"general": "In 1940, Camarena created an early color television system to make broadcasts more vivid.",
+					"description": "His device used color wheels and filters to project images in red, green, and blue tones.",
+					"extra": "He tested prototypes repeatedly at home and in studios, inspiring later global color TV standards."
+				},
+				"image": "images/inventions/north_america/mexico/color_tv.webp"
+			},
+			{
+				"name": "Birth Control Pill (oral contraceptive)",
+				"inventor": "Luis Ernesto Miramontes",
+				"year": "1951",
+				"information": {
+					"general": "Miramontes co-invented the first orally active hormonal contraceptive, revolutionizing family planning worldwide.",
+					"description": "He synthesized norethindrone, the key active ingredient, which could prevent ovulation when taken orally.",
+					"extra": "This breakthrough had profound social and cultural impacts, giving women unprecedented control over reproductive health."
+				},
+				"image": "images/inventions/north_america/mexico/birth_control_pill.webp"
+			},
+			{
+				"name": "Tridilosa (Structural Engineering System)",
+				"inventor": "Heberto Castillo",
+				"year": "1966",
+				"information": {
+					"general": "A lightweight and strong construction system combining concrete and steel for large-span structures.",
+					"description": "Tridilosa uses a 3D lattice structure to reduce material usage while maintaining high load-bearing capacity.",
+					"extra": "This innovation allowed Mexico to build taller, lighter, and more economical buildings, influencing modern architectural design."
+				},
+				"image": "images/inventions/north_america/mexico/tridilosa.webp"
+			}
+		]
+	},
+	{
+		"country": "Brazil",
+		"inventions": [
+			{
+				"name": "Airplane Taxiing System",
+				"inventor": "Alberto Santos-Dumont",
+				"year": "c. 1906",
+				"information": {
+					"general": "Around 1906, Santos-Dumont developed early systems for controlled airplane taxiing and flight.",
+					"description": "He designed wheels, steering, and lightweight structures to safely move and take off small aircraft.",
+					"extra": "Inspired by observation of birds and experiments in Paris, he demonstrated practical flight to astonished crowds."
+				},
+				"image": "images/inventions/south_america/brazil/airplane_taxiing.webp"
+			},
+			{
+				"name": "Superflexible Fiber Optics",
+				"inventor": "José Mauro Pinheiro",
+				"year": "1990s",
+				"information": {
+					"general": "Brazilian physicist José Mauro Pinheiro helped develop ultra-flexible fiber-optic strands that improved telecommunication durability.",
+					"description": "The fibers used modified polymer coatings allowing extreme bending without signal loss, ideal for dense urban cable layouts.",
+					"extra": "The technology was later used in submarine cables and satellite communication infrastructures across Latin America."
+				},
+				"image": "images/inventions/south_america/brazil/fiber_optics.webp"
+			},
+			{
+				"name": "Direct-Recording Electronic Voting Machine",
+				"inventor": "Brazilian Superior Electoral Court (TSE) Engineering Team",
+				"year": "1996",
+				"information": {
+					"general": "In 1996, Brazilian engineers created one of the world's first national-scale electronic voting machines.",
+					"description": "The device digitized ballots, reduced counting time from days to minutes, and incorporated validation features that cut down election errors.",
+					"extra": "Brazil became a global pioneer in electronic voting. Many countries later modeled their systems after Brazil's design."
+				},
+				"image": "images/inventions/south_america/brazil/voting_machine.webp"
+			}
+		]
+	},
+	{
+		"country": "Argentina",
+		"inventions": [
+			{
+				"name": "Artificial Heart (early prototype)",
+				"inventor": "Argentine medical team",
+				"year": "1969",
+				"information": {
+					"general": "In 1969, Argentine researchers built early artificial heart prototypes for patients with severe heart disease.",
+					"description": "Made from metal and plastic, the devices pumped blood temporarily while patients awaited transplants.",
+					"extra": "Their iterative testing in labs and with animals paved the way for modern artificial heart technology."
+				},
+				"image": "images/inventions/south_america/argentina/artificial_heart.webp"
+			},
+			{
+				"name": "Ballpoint Pen",
+				"inventor": "László Bíró",
+				"year": "1943",
+				"information": {
+					"general": "The modern ballpoint pen was developed and patented in Argentina by László Bíró and his brother György.",
+					"description": "Using a tiny rotating ball in the tip to evenly dispense ink, it became a reliable and convenient writing instrument worldwide.",
+					"extra": "Bíró's design replaced fountain pens in many applications and is still used globally today."
+				},
+				"image": "images/inventions/south_america/argentina/ballpoint_pen.webp"
+			}
+		]
+	},
+	{
+		"country": "China",
+		"inventions": [
+			{
+				"name": "Paper",
+				"inventor": "Cai Lun",
+				"year": "105",
+				"information": {
+					"general": "In 105 AD, Cai Lun refined papermaking to produce affordable sheets from mulberry bark, hemp, and rags.",
+					"description": "He mashed, pressed, and dried fibers into smooth sheets suitable for writing and recording ideas.",
+					"extra": "His experiments standardized a process that spread across China and later the world, enabling literature and bureaucracy to flourish."
+				},
+				"image": "images/inventions/asia/china/paper.webp"
+			},
+			{
+				"name": "Gunpowder",
+				"inventor": "Chinese Alchemists",
+				"year": "9th Century CE",
+				"information": {
+					"general": "An explosive mixture initially discovered while seeking an elixir of immortality.",
+					"description": "Used first for fireworks and later adapted for military applications, gunpowder transformed warfare globally.",
+					"extra": "Its invention laid the foundation for cannons, firearms, and modern explosives."
+				},
+				"image": "images/inventions/asia/china/gunpowder.webp"
+			},
+			{
+				"name": "Compass",
+				"inventor": "Ancient Chinese Engineers",
+				"year": "Han Dynasty, 2nd century BCE",
+				"information": {
+					"general": "A navigational instrument that shows direction relative to the Earth's magnetic poles.",
+					"description": "The Chinese first used lodestone (magnetized mineral) to create a simple directional compass for navigation and geomancy.",
+					"extra": "The compass later became a crucial tool for maritime exploration globally."
+				},
+				"image": "images/inventions/asia/china/compass.webp"
+			}
+		]
+	},
+	{
+		"country": "Japan",
+		"inventions": [
+			{
+				"name": "Blue LED",
+				"inventor": "Shuji Nakamura",
+				"year": "1993",
+				"information": {
+					"general": "In 1993, Shuji Nakamura created the blue LED, completing the trio for white light sources.",
+					"description": "He used semiconductor materials like gallium nitride to produce energy-efficient blue light for displays and lighting.",
+					"extra": "After countless lab trials, his breakthrough earned a Nobel Prize and revolutionized electronics globally."
+				},
+				"image": "images/inventions/asia/japan/blue_led.webp"
+			},
+			{
+				"name": "Compact Disc (CD)",
+				"inventor": "Kees Schouhamer Immink & Toshitada Doi (Sony/Philips collaboration)",
+				"year": "1982",
+				"information": {
+					"general": "An optical disc used to store digital data, originally for audio storage.",
+					"description": "Japanese engineers helped develop the CD standard and manufacturing technology, making digital audio widely accessible.",
+					"extra": "CDs revolutionized music distribution and data storage, laying the groundwork for DVDs and Blu-rays."
+				},
+				"image": "images/inventions/asia/japan/compact_disc.webp"
+			},
+			{
+				"name": "Game Boy",
+				"inventor": "Gunpei Yokoi",
+				"year": "1989",
+				"information": {
+					"general": "A handheld gaming console that popularized portable video gaming worldwide.",
+					"description": "Gunpei Yokoi designed a compact, durable device with interchangeable game cartridges, making gaming accessible anywhere.",
+					"extra": "The Game Boy's success led to a long-running line of Nintendo handheld consoles and inspired the entire portable gaming industry."
+				},
+				"image": "images/inventions/asia/japan/game_boy.webp"
+			}
+		]
+	},
+	{
+		"country": "South Korea",
+		"inventions": [
+			{
+				"name": "Kimchi Refrigerator",
+				"inventor": "Kim Jae-kyung / South Korean engineers",
+				"year": "1995",
+				"information": {
+					"general": "A specialized refrigerator designed to store kimchi at ideal temperatures and humidity levels to preserve flavor and fermentation.",
+					"description": "Unlike standard refrigerators, Kimchi refrigerators maintain a stable, slightly colder environment with precise humidity control, preventing over-fermentation while keeping kimchi fresh for months.",
+					"extra": "This invention became extremely popular in South Korean households and has been exported globally to cater to Korean cuisine enthusiasts."
+				},
+				"image": "images/inventions/asia/south_korea/kimchi_refrigerator.webp"
+			},
+			{
+				"name": "Banana Milk",
+				"inventor": "Seoul Milk Co.",
+				"year": "1974",
+				"information": {
+					"general": "A flavored milk beverage that became a cultural staple in South Korea.",
+					"description": "Seoul Milk invented this banana-flavored milk, which became extremely popular and widely consumed in schools and households.",
+					"extra": "Banana milk is now an iconic South Korean drink, often exported and referenced in Korean pop culture."
+				},
+				"image": "images/inventions/asia/south_korea/banana_milk.webp"
+			},
+			{
+				"name": "Hangul (Korean Alphabet)",
+				"inventor": "King Sejong the Great",
+				"year": "1443",
+				"information": {
+					"general": "The Korean writing system, designed to be easy to learn and use.",
+					"description": "Hangul was created to improve literacy in Korea. Its systematic phonetic design allows almost anyone to read and write Korean quickly.",
+					"extra": "Hangul is celebrated every year on Hangul Day (October 9 in South Korea) and is considered one of the most scientific writing systems in the world."
+				},
+				"image": "images/inventions/asia/south_korea/hangul.webp"
+			}
+		]
+	},
+	{
+		"country": "Egypt",
+		"inventions": [
+			{
+				"name": "Paper (Papyrus)",
+				"inventor": "Ancient Egyptians",
+				"year": "c. 3000 BC",
+				"information": {
+					"general": "Around 3000 BC, Egyptians created papyrus sheets from the papyrus plant.",
+					"description": "They layered and pressed plant fibers to make durable writing surfaces for record-keeping and art.",
+					"extra": "This method spread across the Mediterranean, supporting administration and culture for centuries."
+				},
+				"image": "images/inventions/africa/egypt/papyrus.webp"
+			},
+			{
+				"name": "Solar Calendar",
+				"inventor": "Ancient Egyptians",
+				"year": "c. 2700 BC",
+				"information": {
+					"general": "Egyptians developed a 365-day solar calendar to track the agricultural year.",
+					"description": "It divided the year into 12 months of 30 days each, plus 5 extra days, helping plan farming and religious events.",
+					"extra": "This calendar was one of the earliest accurate solar calendars, influencing later timekeeping systems."
+				},
+				"image": "images/inventions/africa/egypt/solar_calendar.webp"
+			},
+			{
+				"name": "Hieroglyphic Writing",
+				"inventor": "Ancient Egyptians",
+				"year": "c. 3200 BC",
+				"information": {
+					"general": "Hieroglyphics were a complex system of pictorial writing used for formal inscriptions.",
+					"description": "It combined logographic and alphabetic elements, carved on monuments, tombs, and papyrus.",
+					"extra": "Hieroglyphs preserved Egyptian history and culture for millennia and influenced early scripts in the region."
+				},
+				"image": "images/inventions/africa/egypt/hieroglyphs.webp"
+			}
+		]
+	},
+	{
+		"country": "South Africa",
+		"inventions": [
+			{
+				"name": "Kreepy Krauly (automatic pool cleaner)",
+				"inventor": "F. W. L. de Jager",
+				"year": "1974",
+				"information": {
+					"general": "In 1974, de Jager built the Kreepy Krauly to clean pools automatically.",
+					"description": "Using water flow, it moves and vacuums debris without manual effort.",
+					"extra": "His clever use of basic hydraulics made pool maintenance easy worldwide."
+				},
+				"image": "images/inventions/africa/south_africa/kreepy_krauly.webp"
+			},
+			{
+				"name": "CAT Scan Contributions",
+				"inventor": "Allan Cormack",
+				"year": "1972",
+				"information": {
+					"general": "Cormack, working in South Africa, co-developed mathematical algorithms behind CT scanning.",
+					"description": "These algorithms allowed 3D images from multiple X-ray scans.",
+					"extra": "He later shared the Nobel Prize in Physiology or Medicine for this work, revolutionizing medical imaging."
+				},
+				"image": "images/inventions/africa/south_africa/cat_scan.webp"
+			},
+			{
+				"name": "Braai Grid (Portable Barbecue Grid)",
+				"inventor": "South African Innovators",
+				"year": "1970s",
+				"information": {
+					"general": "A portable barbecue grid designed to make outdoor cooking easier and more social.",
+					"description": "It allows meat, vegetables, and other foods to be grilled evenly over open flames or coals, perfect for the famous South African braai.",
+					"extra": "The braai culture is a beloved social tradition in South Africa, and this invention helped make it portable and accessible for gatherings anywhere."
+				},
+				"image": "images/inventions/africa/south_africa/braai_grid.webp"
+			}
+		]
+	},
+	{
+		"country": "Nigeria",
+		"inventions": [
+			{
+				"name": "Nigerian Drums (Talking Drum Innovation)",
+				"inventor": "Traditional Makers",
+				"year": "c. 600 AD",
+				"information": {
+					"general": "Around 600 AD, Nigerian artisans created the talking drum to mimic speech and send messages.",
+					"description": "Adjustable strings and tension allow pitch changes, letting drums 'talk' across distances.",
+					"extra": "This innovation influenced music and communication across West Africa for centuries."
+				},
+				"image": "images/inventions/africa/nigeria/talking_drum.webp"
+			},
+			{
+				"name": "Aso Oke Weaving Techniques",
+				"inventor": "Yoruba Artisans",
+				"year": "c. 1200 AD",
+				"information": {
+					"general": "Advanced traditional textile weaving creating richly patterned fabrics.",
+					"description": "Used on looms with precise techniques for ceremonial clothing and art.",
+					"extra": "Aso Oke remains a cultural symbol and influences modern textile design."
+				},
+				"image": "images/inventions/africa/nigeria/aso_oke.webp"
+			}
+		]
+	},
+	{
+		"country": "Kenya",
+		"inventions": [
+			{
+				"name": "Paper from Sisal Plant",
+				"inventor": "Kenyan Innovators",
+				"year": "1970s",
+				"information": {
+					"general": "In the 1970s, Kenyan innovators made paper from sisal plant fibers to reduce costs.",
+					"description": "They pulped, pressed, and dried fibers into sheets for school and community use.",
+					"extra": "This creative use of local materials supported education and small businesses."
+				},
+				"image": "images/inventions/africa/kenya/sisal_paper.webp"
+			},
+			{
+				"name": "Kenyan Jiko (Smokeless Charcoal Stove)",
+				"inventor": "Kenyan Innovators",
+				"year": "1970s",
+				"information": {
+					"general": "The Kenyan Jiko is an improved charcoal stove designed to cook efficiently with less smoke.",
+					"description": "Made from clay or metal, it directs airflow to burn fuel more efficiently, reducing fuel use and indoor air pollution.",
+					"extra": "The Jiko became widely adopted across East Africa and inspired further energy-efficient cooking solutions worldwide."
+				},
+				"image": "images/inventions/africa/kenya/kenya_jiko.webp"
+			}
+		]
+	},
+	{
+		"country": "Morocco",
+		"inventions": [
+			{
+				"name": "Tadelakt Plaster",
+				"inventor": "Moroccan Artisans",
+				"year": "c. 900 AD",
+				"information": {
+					"general": "Around 900 AD, Moroccan artisans developed tadelakt, a polished waterproof plaster.",
+					"description": "They used lime, natural pigments, and olive soap to create durable, glossy surfaces for baths and walls.",
+					"extra": "The technique spread through North Africa and is still used in decorative architecture today."
+				},
+				"image": "images/inventions/africa/morocco/tadelakt.webp"
+			},
+			{
+				"name": "Moroccan Leather (Tanning)",
+				"inventor": "Moroccan Artisans",
+				"year": "c. 11th century",
+				"information": {
+					"general": "Moroccan craftsmen developed high-quality leather tanning methods.",
+					"description": "They used natural dyes and traditional tanning techniques to produce durable, soft leather.",
+					"extra": "This leather became famous in Europe and remains a hallmark of Moroccan craftsmanship."
+				},
+				"image": "images/inventions/africa/morocco/leather.webp"
+			}
+		]
+	},
+	{
+		"country": "Australia",
+		"inventions": [
+			{
+				"name": "Black Box Flight Recorder",
+				"inventor": "Dr. David Warren",
+				"year": "1958",
+				"information": {
+					"general": "In 1958, Dr. David Warren invented the black box to analyze airplane crashes.",
+					"description": "Encased in durable metal, it records cockpit audio and flight data for later investigation.",
+					"extra": "His tests and prototypes ensured planes worldwide became safer through flight data analysis."
+				},
+				"image": "images/inventions/oceania/australia/black_box.webp"
+			},
+			{
+				"name": "Cochlear Implant",
+				"inventor": "Dr. Graeme Clark",
+				"year": "1978",
+				"information": {
+					"general": "Dr. Graeme Clark developed the cochlear implant to restore hearing for the deaf.",
+					"description": "The device converts sound into electrical signals that stimulate the auditory nerve.",
+					"extra": "Cochlear implants have transformed lives globally, enabling hearing and speech."
+				},
+				"image": "images/inventions/oceania/australia/cochlear_implant.webp"
+			},
+			{
+				"name": "Polymer Banknotes",
+				"inventor": "CSIRO Scientists",
+				"year": "1988",
+				"information": {
+					"general": "Australia developed the world's first polymer banknotes to improve durability and security.",
+					"description": "Made from a type of polymer film, these notes are resistant to tearing, water, and counterfeiting.",
+					"extra": "Today, many countries have adopted polymer banknotes inspired by Australia's innovation."
+				},
+				"image": "images/inventions/oceania/australia/polymer_banknotes.webp"
+			}
+		]
+	},
+	{
+		"country": "New Zealand",
+		"inventions": [
+			{
+				"name": "Disposable Syringe",
+				"inventor": "Colin Murdoch",
+				"year": "1956",
+				"information": {
+					"general": "In 1956, Colin Murdoch invented the disposable syringe to reduce infections.",
+					"description": "Made from plastic and rubber, it is pre-sterilized and safe for single use.",
+					"extra": "His invention quickly became a global medical standard, saving countless lives."
+				},
+				"image": "images/inventions/oceania/new_zealand/disposable_syringe.webp"
+			},
+			{
+				"name": "Jet Boat",
+				"inventor": "Bill Hamilton",
+				"year": "1954",
+				"information": {
+					"general": "Bill Hamilton invented the jet boat to navigate shallow rivers.",
+					"description": "It uses a jet of water for propulsion instead of a propeller, enabling shallow-water travel.",
+					"extra": "This innovation is widely used for recreation and rescue operations worldwide."
+				},
+				"image": "images/inventions/oceania/new_zealand/jet_boat.webp"
+			},
+			{
+				"name": "Electric Fence",
+				"inventor": "Bill Gallagher",
+				"year": "1937",
+				"information": {
+					"general": "Bill Gallagher invented the electric fence to manage livestock efficiently.",
+					"description": "The system delivers a safe, controllable electric shock to deter animals from escaping.",
+					"extra": "It became a standard tool in agriculture worldwide."
+				},
+				"image": "images/inventions/oceania/new_zealand/electric_fence.webp"
+			}
+		]
+	},
+	{
+		"country": "Fiji",
+		"inventions": [
+			{
+				"name": "Lali (Traditional Drums)",
+				"inventor": "Fijian Communities",
+				"year": "ancient",
+				"information": {
+					"general": "Fijians created lali drums for communication and ceremonies.",
+					"description": "Carved from wood and struck with sticks, they produce resonant sounds heard over long distances.",
+					"extra": "Lali remain culturally significant and are used in festivals and rituals today."
+				},
+				"image": "images/inventions/oceania/fiji/lali.webp"
+			},
+			{
+				"name": "Fijian Bark Cloth (Masi)",
+				"inventor": "Fijian Artisans",
+				"year": "ancient",
+				"information": {
+					"general": "Artisans made cloth from beaten mulberry bark, decorated with intricate patterns.",
+					"description": "Masi was used for clothing, ceremonial items, and trade.",
+					"extra": "The tradition continues as a cultural art form in Fiji."
+				},
+				"image": "images/inventions/oceania/fiji/masi.webp"
+			}
+		]
+	},
+	{
+		"country": "Papua New Guinea",
+		"inventions": [
+			{
+				"name": "Bilum (string bags)",
+				"inventor": "Papua New Guinea Communities",
+				"year": "ancient",
+				"information": {
+					"general": "Papua New Guinea communities made bilum, strong handwoven string bags.",
+					"description": "Fibers are looped and knotted into flexible, durable nets for carrying food, goods, and even babies.",
+					"extra": "Bilum remains a cultural symbol and is now appreciated internationally for its craftsmanship."
+				},
+				"image": "images/inventions/oceania/papua_new_guinea/bilum.webp"
+			},
+			{
+				"name": "Pandanus Weaving",
+				"inventor": "Papua New Guinea Communities",
+				"year": "ancient",
+				"information": {
+					"general": "Pandanus leaves are woven into mats, baskets, and roofing materials.",
+					"description": "This method provides durable and weather-resistant everyday items.",
+					"extra": "The weaving tradition is integral to cultural identity and ceremonies."
+				},
+				"image": "images/inventions/oceania/papua_new_guinea/pandanus_weaving.webp"
+			}
+		]
+	},
+	{
+		"country": "Samoa",
+		"inventions": [
+			{
+				"name": "Tattooing Techniques",
+				"inventor": "Samoan Communities",
+				"year": "ancient",
+				"information": {
+					"general": "Samoan communities developed intricate tattoos as symbols of identity and status.",
+					"description": "Using comb-like tools and ink from soot, designs are tapped into the skin with precision.",
+					"extra": "These techniques influenced Polynesian art and remain an important cultural tradition."
+				},
+				"image": "images/inventions/oceania/samoa/tattoo.webp"
+			},
+			{
+				"name": "Fale (Traditional Houses)",
+				"inventor": "Samoan Communities",
+				"year": "ancient",
+				"information": {
+					"general": "Samoans developed open-sided, thatched houses called fale.",
+					"description": "They are constructed with wooden posts and palm thatching for ventilation and strength.",
+					"extra": "Fale design influenced Polynesian architecture across the Pacific."
+				},
+				"image": "images/inventions/oceania/samoa/fale.webp"
+			}
+		]
+	},
+	{
+		"country": "Vietnam",
+		"inventions": [
+			{
+				"name": "Water Puppet Theater",
+				"inventor": "Vietnamese Folk Artists",
+				"year": "11th Century",
+				"information": {
+					"general": "Water puppetry is a traditional Vietnamese art form where puppets perform on water instead of a stage.",
+					"description": "Puppeteers stand behind a screen and control the wooden puppets using long rods hidden under the water.",
+					"extra": "It was originally used to entertain villagers and convey folklore, and it remains a symbol of Vietnamese cultural heritage."
+				},
+				"image": "images/inventions/asia/vietnam/water_puppet_theater.webp"
+			},
+			{
+				"name": "Rice Paper",
+				"inventor": "Vietnamese Artisans",
+				"year": "Ancient Times",
+				"information": {
+					"general": "Rice paper is a thin, edible paper made from rice flour, traditionally used in rolls and wrappers.",
+					"description": "The rice flour is mixed with water, spread thin, steamed, and dried to produce flexible sheets.",
+					"extra": "Rice paper has influenced culinary techniques worldwide, especially in Southeast Asian cuisine."
+				},
+				"image": "images/inventions/asia/vietnam/rice_paper.webp"
+			}
+		]
+	},
+	{
+		"country": "Türkiye",
+		"inventions": [
+			{
+				"name": "Tulip Cultivation",
+				"inventor": "Turkish Gardeners",
+				"year": "16th Century",
+				"information": {
+					"general": "Turkish gardeners refined tulip cultivation, creating spectacular gardens and festivals.",
+					"description": "They selectively bred tulip bulbs for color, shape, and pattern, influencing horticulture and inspiring tulip mania in Europe.",
+					"extra": "While tulips existed elsewhere, Turkey's systematic cultivation and decorative use were pioneering."
+				},
+				"image": "images/inventions/europe/turkey/tulip.webp"
+			},
+			{
+				"name": "Hittite Chariot",
+				"inventor": "Hittite Engineers",
+				"year": "1600 BCE",
+				"information": {
+					"general": "The Hittites, ancient Anatolian people, developed a light, fast chariot used in warfare.",
+					"description": "Their chariot design allowed greater maneuverability and speed on the battlefield, revolutionizing ancient military tactics.",
+					"extra": "This design influenced later civilizations' chariots across the Near East."
+				},
+				"image": "images/inventions/europe/turkey/hittite_chariot.webp"
+			},
+			{
+				"name": "Iznik Pottery",
+				"inventor": "Turkish Artisans",
+				"year": "15th Century",
+				"information": {
+					"general": "Iznik pottery is a form of fine ceramic decorated with intricate designs and vivid colors.",
+					"description": "Artisans perfected glazing and painting techniques to produce high-quality bowls, tiles, and plates.",
+					"extra": "Iznik ceramics became a hallmark of Turkish art and influenced European ceramic production."
+				},
+				"image": "images/inventions/europe/turkey/iznik_pottery.webp"
+			}
+		]
+	},
+	{
+		"country": "Iran",
+		"inventions": [
+			{
+				"name": "Baghdad Battery",
+				"inventor": "Parthian / Persian Civilization",
+				"year": "c. 200 BCE",
+				"information": {
+					"general": "An ancient device believed to be one of the world's first attempts at generating electricity.",
+					"description": "It was made using a clay jar, a rolled copper cylinder, and an iron rod sealed with bitumen. When filled with an acidic liquid like vinegar or lemon juice, the components reacted to create a small electrical charge.",
+					"extra": "While its true purpose is still debated, many researchers believe it may have been used for electroplating jewelry with precious metals — hinting at an advanced understanding of early chemistry and electricity."
+				},
+				"image": "images/inventions/asia/iran/baghdad_battery.webp"
+			},
+			{
+				"name": "Backgammon",
+				"inventor": "Ancient Persians",
+				"year": "c. 3000 BCE",
+				"information": {
+					"general": "One of the oldest known strategy board games in human history.",
+					"description": "Using a wooden board, carved pieces and dice made from bone or stone, players raced and captured pieces using a mix of probability and skill. The design created endless variations of play and strategy.",
+					"extra": "Backgammon spread across the Middle East, into Europe, and eventually around the world. Thousands of years later, the core gameplay remains almost unchanged."
+				},
+				"image": "images/inventions/asia/iran/backgammon.webp"
+			},
+			{
+				"name": "Yakhchal (Ancient Ice House)",
+				"inventor": "Persian Engineers",
+				"year": "c. 400 BCE",
+				"information": {
+					"general": "A massive ancient refrigerator built in the middle of desert landscapes.",
+					"description": "The conical structure was made from a special mortar that resisted heat. Underground chambers, thick walls, and wind-catchers kept ice frozen even in extreme summer temperatures.",
+					"extra": "Ice was transported from nearby mountains in winter and stored year-round. These structures inspired modern refrigeration and passive cooling architecture."
+				},
+				"image": "images/inventions/asia/iran/yakhchal.webp"
+			}
+		]
+	},
+	{
+		"country": "India",
+		"inventions": [
+			{
+				"name": "Zero (Numeric Symbol)",
+				"inventor": "Indian Mathematicians",
+				"year": "c. 500 CE",
+				"information": {
+					"general": "The first civilization to use zero as both a number and a symbol.",
+					"description": "Indian scholars formalized zero to represent 'nothingness' in mathematics. This allowed for the powerful place-value system used today in arithmetic, algebra, geometry and computing.",
+					"extra": "Without zero, modern physics, engineering, and digital technology would not exist. It is one of the most influential inventions in history."
+				},
+				"image": "images/inventions/asia/india/zero.webp"
+			},
+			{
+				"name": "Chess (Chaturanga)",
+				"inventor": "Indian Game Designers",
+				"year": "c. 600 CE",
+				"information": {
+					"general": "The original version of modern chess was created in India.",
+					"description": "The game was based on real military units: infantry, cavalry, elephants, and chariots. Played on an 8×8 board, it trained strategic thinking and battle planning.",
+					"extra": "As it travelled to Persia and Europe, the pieces evolved into the modern queen, bishop, and knight — turning it into the global game of chess we know today."
+				},
+				"image": "images/inventions/asia/india/chaturanga.webp"
+			},
+			{
+				"name": "Stepwells",
+				"inventor": "Ancient Indian Builders",
+				"year": "c. 3000 BCE",
+				"information": {
+					"general": "Architectural wells designed to access underground water during dry seasons.",
+					"description": "These massive structures contained hundreds of steps leading down to water, with platforms, temples and carved stone walls. They were both functional water sources and artistic masterpieces.",
+					"extra": "Some stepwells descend more than ten stories underground and remain standing today as examples of advanced ancient engineering and climate-resilient design."
+				},
+				"image": "images/inventions/asia/india/stepwell.webp"
+			}
+		]
+	},
+	{
+		"country": "Pakistan",
+		"inventions": [
+			{
+				"name": "Buttons",
+				"inventor": "Indus Valley Civilization",
+				"year": "c. 2000 BCE",
+				"information": {
+					"general": "Some of the world's first known buttons were created in the Indus Valley.",
+					"description": "Carved from seashells and drilled with holes, early buttons were sewn onto clothing — both as decoration and as fasteners.",
+					"extra": "This simple invention eventually transformed global fashion, leading to coats, uniforms, shirts and modern garments."
+				},
+				"image": "images/inventions/asia/pakistan/buttons.webp"
+			},
+			{
+				"name": "Precision Measuring Rulers",
+				"inventor": "Indus Valley Engineers",
+				"year": "c. 2500 BCE",
+				"information": {
+					"general": "Among the most accurate measuring tools of the ancient world.",
+					"description": "These rulers were crafted from ivory and divided into extremely small, consistent units — rivaling the precision of modern tools.",
+					"extra": "They allowed the cities of Harappa and Mohenjo-Daro to be built in perfect grid systems with remarkably advanced urban planning."
+				},
+				"image": "images/inventions/asia/pakistan/ivory_ruler.webp"
+			}
+		]
+	},
+	{
+		"country": "Philippines",
+		"inventions": [
+			{
+				"name": "Jeepney",
+				"inventor": "Filipino Mechanics",
+				"year": "1940s",
+				"information": {
+					"general": "A fully customized public transport vehicle created from war surplus.",
+					"description": "After World War II, abandoned U.S. military jeeps were extended, decorated with bright colors, and fitted with side benches to carry many passengers.",
+					"extra": "The Jeepney became both an affordable transport solution and a powerful national symbol of Filipino creativity and resilience."
+				},
+				"image": "images/inventions/asia/philippines/jeepney.webp"
+			},
+			{
+				"name": "Banana Ketchup",
+				"inventor": "Maria Orosa",
+				"year": "1942",
+				"information": {
+					"general": "A bright red ketchup made without tomatoes.",
+					"description": "During wartime tomato shortages, bananas were mashed and blended with vinegar, sugar, and spices, then dyed red to resemble ketchup.",
+					"extra": "Today, banana ketchup is a Filipino staple, used in dishes like spaghetti, fried chicken, and barbecue."
+				},
+				"image": "images/inventions/asia/philippines/banana_ketchup.webp"
+			},
+			{
+				"name": "Bangka (Filipino Canoe)",
+				"inventor": "Ancient Filipino Boatmakers",
+				"year": "c. 1500s",
+				"information": {
+					"general": "The bangka is a traditional Filipino outrigger canoe used for fishing, transport, and trade.",
+					"description": "Handcrafted from wood and often fitted with bamboo outriggers for stability, these boats are lightweight, durable, and designed for navigating rivers and coastal waters.",
+					"extra": "Bangka remain a vital part of Filipino life today, reflecting centuries of maritime skill and tangible craftsmanship."
+				},
+				"image": "images/inventions/asia/philippines/bangka.webp"
+			}
+		]
+	},
+	{
+		"country": "Peru",
+		"inventions": [
+			{
+				"name": "Quipu Digital Archive",
+				"inventor": "Pontifical Catholic University of Peru (PUCP) Team",
+				"year": "2000s",
+				"information": {
+					"general": "In the 2000s, Peruvian researchers digitized ancient quipu knots to preserve Inca accounting and communication methods.",
+					"description": "Using high-resolution scanning and data modeling, they translated knot patterns into digital databases to study historical trade and census records.",
+					"extra": "This effort made quipu accessible to global scholars and influenced modern information-encoding techniques inspired by traditional systems."
+				},
+				"image": "images/inventions/south_america/peru/quipu_digital.webp"
+			},
+			{
+				"name": "Potato Preservation System",
+				"inventor": "Instituto Nacional de Innovación Agraria (INIA)",
+				"year": "1990s",
+				"information": {
+					"general": "Peruvian agricultural engineers developed a low-temperature and humidity-controlled storage system for potatoes, reducing post-harvest losses.",
+					"description": "The system allows potatoes to be stored for months without sprouting or rotting, supporting both domestic supply and export markets.",
+					"extra": "Given Peru's status as the origin of potatoes, this invention significantly increased food security and agricultural efficiency nationwide."
+				},
+				"image": "images/inventions/south_america/peru/potato_storage.webp"
+			},
+			{
+				"name": "Pukio Irrigation Machine",
+				"inventor": "Andean Agricultural Engineering Teams",
+				"year": "2010s",
+				"information": {
+					"general": "In the 2010s, Peruvian engineers modernized the traditional Pukio system, creating a machine that efficiently lifts and channels water for agriculture.",
+					"description": "The device combines ancient Inca hydraulic knowledge with modern mechanical pumps, enabling consistent water flow to terraced fields while reducing manual labor.",
+					"extra": "The Pukio machine preserves traditional Andean irrigation methods while supporting sustainable farming and increasing crop yields in mountainous regions."
+				},
+				"image": "images/inventions/south_america/peru/pukio_machine.webp"
+			}
+		]
+	},
+	{
+		"country": "Venezuela",
+		"inventions": [
+			{
+				"name": "Canaima Educational Operating System",
+				"inventor": "Centro Nacional de Tecnologías de Información (CNTI)",
+				"year": "2009",
+				"information": {
+					"general": "In 2009, Venezuelan software engineers created Canaima, a Linux-based OS designed for widespread educational use.",
+					"description": "Built on Debian, it offers lightweight performance for low-cost laptops. Its clean interface, offline-friendly tools, and open-source structure made it ideal for classrooms with limited connectivity.",
+					"extra": "Canaima was installed in more than 7 million 'Canaimitas' laptops distributed to students nationwide. It remains one of Latin America's largest open-source educational tech initiatives."
+				},
+				"image": "images/inventions/south_america/venezuela/canaima_os.webp"
+			},
+			{
+				"name": "Modern Arepa Maker (TostyArepa)",
+				"inventor": "Carlos R. Soto",
+				"year": "1970s",
+				"information": {
+					"general": "In the 1970s, Venezuelan engineer Carlos Soto created the first electric arepa maker, known today as the TostyArepa.",
+					"description": "The appliance presses and heats corn dough evenly between two metal plates, producing perfectly shaped arepas in minutes.",
+					"extra": "The TostyArepa became a household staple in Venezuela and among diaspora communities, shaping how arepas are prepared worldwide."
+				},
+				"image": "images/inventions/south_america/venezuela/tostyarepa.webp"
+			}
+		]
+	},
+	{
+		"country": "Ecuador",
+		"inventions": [
+			{
+				"name": "Panela Vacuum Evaporation System",
+				"inventor": "Luis Alberto Armendáriz",
+				"year": "1980s",
+				"information": {
+					"general": "In the 1980s, Ecuadorian engineer Luis Armendáriz developed a vacuum-based evaporation system to modernize the production of panela (unrefined cane sugar).",
+					"description": "The system reduces boiling temperature, allowing sugarcane juice to concentrate without burning, improving both quality and production speed. It became important for small Andean producers.",
+					"extra": "Armendáriz's design increased energy efficiency and created more consistent panela blocks, influencing sugarcane processing across South America."
+				},
+				"image": "images/inventions/south_america/ecuador/panela_system.webp"
+			},
+			{
+				"name": "Ecuavóley Net System",
+				"inventor": "Quito Sports Innovators Group",
+				"year": "1950s",
+				"information": {
+					"general": "In the 1950s, local athletes in Quito standardized the modern net and ball system for Ecuavóley, Ecuador's unique three-player version of volleyball.",
+					"description": "The system involved a higher net, a specific ball weight, and reinforced court posts, giving the sport its signature fast, powerful style.",
+					"extra": "Ecuavóley later spread to Colombia, Peru, and migrant communities in the U.S. and Spain. Ecuador's standardized equipment remains the sport's global reference."
+				},
+				"image": "images/inventions/south_america/ecuador/ecuavoley.webp"
+			}
+		]
+	},
+	{
+		"country": "Bolivia",
+		"inventions": [
+			{
+				"name": "Solar-Powered Salt Harvesting System",
+				"inventor": "Andean Engineering Team",
+				"year": "1990s",
+				"information": {
+					"general": "In the 1990s, Bolivian engineers developed solar-powered systems to improve salt extraction in the Salar de Uyuni region.",
+					"description": "The system uses solar energy to evaporate brine efficiently, increasing salt and lithium yields while reducing labor and fuel costs.",
+					"extra": "This innovation influenced renewable-energy-based extraction techniques across South America, supporting lithium mining for batteries."
+				},
+				"image": "images/inventions/south_america/bolivia/solar_salt.webp"
+			},
+			{
+				"name": "Chirimoya Juice Pasteurizer",
+				"inventor": "Luis Fernando Quispe",
+				"year": "1980s",
+				"information": {
+					"general": "In the 1980s, Bolivian engineer Luis Quispe designed a small-scale pasteurization system for tropical fruits like chirimoya and guava.",
+					"description": "The device uses low-temperature pasteurization to preserve nutrients and extend shelf life, enabling local farmers to export juices safely.",
+					"extra": "It became widely used in Cochabamba and Santa Cruz, increasing income for small farmers and supporting Ecuadorian and Brazilian fruit trade connections."
+				},
+				"image": "images/inventions/south_america/bolivia/chirimoya_pasteurizer.webp"
+			},
+			{
+				"name": "High-Altitude Medical Oxygen Device",
+				"inventor": "Cochabamba Medical Team",
+				"year": "2000s",
+				"information": {
+					"general": "In the early 2000s, a Bolivian medical team developed portable oxygen devices specifically optimized for high-altitude cities like La Paz.",
+					"description": "The devices regulate oxygen delivery under thin-air conditions, improving patient survival and comfort in hospitals and homes at 3,500 meters above sea level.",
+					"extra": "This innovation has become a model for high-altitude medical care in Andean countries."
+				},
+				"image": "images/inventions/south_america/bolivia/high_altitude_oxygen.webp"
+			}
+		]
+	},
+	{
+		"country": "Kazakhstan",
+		"inventions": [
+			{
+				"name": "Yurt (Portable Dwelling)",
+				"inventor": "Nomadic Turkic & Kazakh tribes",
+				"year": "c. 5th century",
+				"information": {
+					"general": "The yurt was developed by nomadic peoples of the Central Asian steppes as a portable, durable home.",
+					"description": "Built with a collapsible wooden frame and covered in felt made from sheep's wool, the circular structure retains heat in winter and stays cool in summer.",
+					"extra": "Kazakh nomads used yurts to follow seasonal grazing patterns. Its efficient design is still used today for cultural events and eco-tourism housing across Central Asia."
+				},
+				"image": "images/inventions/asia/kazakhstan/yurt.webp"
+			},
+			{
+				"name": "Kumis (Fermented Mare's Milk)",
+				"inventor": "Ancient Kazakh nomads",
+				"year": "c. 500 BCE",
+				"information": {
+					"general": "Kumis is an ancient fermented drink created by nomadic tribes using mare's milk.",
+					"description": "The milk is fermented in leather bags, producing a lightly alcoholic, probiotic beverage with a sour taste.",
+					"extra": "It was considered both a daily drink and a medicinal tonic. Even today, kumis is produced in Kazakhstan as part of cultural heritage and traditional healing practices."
+				},
+				"image": "images/inventions/asia/kazakhstan/kumis.webp"
+			}
+		]
+	},
+	{
+		"country": "Algeria",
+		"inventions": [
+			{
+				"name": "Foggaras (Ancient Irrigation System)",
+				"inventor": "Berber communities",
+				"year": "c. 1000 BCE",
+				"information": {
+					"general": "The foggara system was created to transport underground water in desert regions without evaporation.",
+					"description": "It uses gently sloping underground tunnels that bring water from aquifers to the surface using gravity alone.",
+					"extra": "This technique made agriculture possible in the Sahara and inspired later qanat systems across North Africa and the Middle East."
+				},
+				"image": "images/inventions/africa/algeria/foggara.webp"
+			},
+			{
+				"name": "Couscous Rolling Technique",
+				"inventor": "Berber people",
+				"year": "c. 200 BCE",
+				"information": {
+					"general": "The Berber tribes of Algeria developed the hand-rolling method used to make couscous grains.",
+					"description": "Semolina is rolled and steamed repeatedly to create tiny, airy granules that absorb sauces and flavour easily.",
+					"extra": "Couscous later spread throughout North Africa and the Mediterranean, becoming a global staple dish."
+				},
+				"image": "images/inventions/africa/algeria/couscous.webp"
+			}
+		]
+	},
+	{
+		"country": "Indonesia",
+		"inventions": [
+			{
+				"name": "Batik Fabric Dyeing",
+				"inventor": "Javanese artisans",
+				"year": "c. 6th century",
+				"information": {
+					"general": "Batik is an ancient Indonesian technique for creating patterns on fabric using wax and dye.",
+					"description": "Hot wax is applied with a canting pen, covering parts of the cloth before dyeing. When the wax is removed, intricate designs remain.",
+					"extra": "Recognized by UNESCO, batik is deeply tied to Indonesian identity and is still worn at formal and cultural events."
+				},
+				"image": "images/inventions/asia/indonesia/batik.webp"
+			},
+			{
+				"name": "Pinisi Ship",
+				"inventor": "Bugis & Makassar people",
+				"year": "c. 14th century",
+				"information": {
+					"general": "The Pinisi is a wooden sailing ship used for trade and exploration in Indonesian waters.",
+					"description": "Built using traditional techniques without blueprints, it has two masts and seven sails for ocean navigation.",
+					"extra": "These ships helped Indonesia become a maritime trading power across Southeast Asia."
+				},
+				"image": "images/inventions/asia/indonesia/pinisi.webp"
+			},
+			{
+				"name": "Piggy Bank (Celengan)",
+				"inventor": "Majapahit civilization (Java)",
+				"year": "c. 14th century",
+				"information": {
+					"general": "A boar-shaped terracotta figurine used to collect and store coins.",
+					"description": "The celengan is made from clay or terracotta and includes a slit at the top where coins can be inserted for safe keeping.",
+					"extra": "One of the oldest known pig-shaped money boxes dates back to the Majapahit period in Java, making it one of the earliest forms of the modern piggy bank."
+				},
+				"image": "images/inventions/asia/indonesia/piggy_bank.webp"
+			}
+		]
+	},
+	{
+		"country": "Netherlands",
+		"inventions": [
+			{
+				"name": "Microscope",
+				"inventor": "Zacharias Janssen",
+				"year": "c. 1590",
+				"information": {
+					"general": "Zacharias Janssen is credited with creating the first compound microscope in the Netherlands.",
+					"description": "The device used multiple lenses to greatly magnify small objects invisible to the naked eye.",
+					"extra": "This invention revolutionized biology and medicine and paved the way for microbiology and modern scientific research."
+				},
+				"image": "images/inventions/europe/netherlands/microscope.webp"
+			},
+			{
+				"name": "Modern Submarine",
+				"inventor": "Cornelis Drebbel",
+				"year": "1620",
+				"information": {
+					"general": "Drebbel built the first navigable submarine for the British Royal Navy.",
+					"description": "It was made of greased leather over a wooden frame and could submerge using water ballast.",
+					"extra": "His invention laid the foundation for modern underwater exploration and naval warfare technology."
+				},
+				"image": "images/inventions/europe/netherlands/submarine.webp"
+			},
+			{
+				"name": "Cassette Tape",
+				"inventor": "Philips",
+				"year": "1963",
+				"information": {
+					"general": "Philips introduced the compact cassette tape as a portable audio storage medium.",
+					"description": "It used magnetic tape encased in plastic to store and play sound recordings.",
+					"extra": "The cassette transformed the global music industry and led to the creation of the Walkman and mixtape culture."
+				},
+				"image": "images/inventions/europe/netherlands/cassette_tape.webp"
+			}
+		]
+	},
+	{
+		"country": "Poland",
+		"inventions": [
+			{
+				"name": "Kerosene Lamp",
+				"inventor": "Ignacy Łukasiewicz",
+				"year": "1853",
+				"information": {
+					"general": "Łukasiewicz developed the first practical kerosene lamp for safe and reliable lighting.",
+					"description": "It used refined petroleum and a glass chimney to create a brighter, cleaner flame than oil lamps.",
+					"extra": "This invention led to the creation of the world's first oil well and refinery, shaping the global energy industry."
+				},
+				"image": "images/inventions/europe/poland/kerosene_lamp.webp"
+			},
+			{
+				"name": "Bulletproof Vest",
+				"inventor": "Kazimierz Żegleń",
+				"year": "1897",
+				"information": {
+					"general": "Żegleń invented the soft-body bulletproof vest to protect against gunfire.",
+					"description": "Made from layers of silk, it was tested successfully against handgun bullets.",
+					"extra": "His work later influenced modern protective armor used by military and police forces."
+				},
+				"image": "images/inventions/europe/poland/bulletproof_vest.webp"
+			},
+			{
+				"name": "Water Mine Detector",
+				"inventor": "Józef Kosacki",
+				"year": "1941",
+				"information": {
+					"general": "Kosacki invented the first practical portable metal detector during World War II.",
+					"description": "It was used to locate land mines safely by detecting metal objects buried underground.",
+					"extra": "This invention saved countless lives and is the basis for modern metal detection technologies."
+				},
+				"image": "images/inventions/europe/poland/metal_detector.webp"
+			}
+		]
+	},
+	{
+		"country": "Mongolia",
+		"inventions": [
+			{
+				"name": "Ger (Traditional Yurt)",
+				"inventor": "Mongolian nomads",
+				"year": "c. 1200s",
+				"information": {
+					"general": "Mongolian nomads developed the ger, a portable, round tent that could be dismantled, transported, and reassembled with ease.",
+					"description": "Constructed with a wooden lattice framework and covered with felt and canvas, it is lightweight yet durable, suitable for harsh steppe climates.",
+					"extra": "This design allowed nomadic herders to move with their livestock across vast plains, influencing portable housing designs worldwide."
+				},
+				"image": "images/inventions/asia/mongolia/ger.webp"
+			},
+			{
+				"name": "Mongolian Bow",
+				"inventor": "Ancient Mongolian warriors",
+				"year": "c. 1200s",
+				"information": {
+					"general": "The Mongolian composite bow was designed for mounted archery, combining power and portability.",
+					"description": "Made from wood, horn, and sinew, it delivered strong, accurate shots while being small enough for horseback use.",
+					"extra": "This bow was key to Mongol military success under Genghis Khan and influenced bow designs across Asia and Europe."
+				},
+				"image": "images/inventions/asia/mongolia/mongolian_bow.webp"
+			}
+		]
+	},
+	{
+		"country": "Libya",
+		"inventions": [
+			{
+				"name": "Libyan Caravan Saddle",
+				"inventor": "Nomadic Libyan tribes",
+				"year": "c. 1200s",
+				"information": {
+					"general": "Nomadic tribes designed specialized saddles for camels to transport goods across the Sahara.",
+					"description": "Made from tanned leather with reinforced wooden frames, these saddles distributed weight evenly for long journeys.",
+					"extra": "They were essential for trade caravans and inspired saddle designs across North Africa and the Middle East."
+				},
+				"image": "images/inventions/africa/libya/libyan_caravan_saddle.webp"
+			},
+			{
+				"name": "Saharan Water Cistern",
+				"inventor": "Ancient Libyan engineers",
+				"year": "c. 1000s",
+				"information": {
+					"general": "A water storage and irrigation system designed to survive arid desert conditions.",
+					"description": "Large underground cisterns captured rainwater and provided a reliable supply during dry periods.",
+					"extra": "This innovation enabled settlements and agriculture in harsh Sahara environments and influenced later desert water management techniques."
+				},
+				"image": "images/inventions/africa/libya/saharan_cistern.webp"
+			}
+		]
+	},
+	{
+		"country": "Ukraine",
+		"inventions": [
+			{
+				"name": "First Practical Helicopter (VS-300)",
+				"inventor": "Igor Sikorsky",
+				"year": "1939",
+				"information": {
+					"general": "Ukrainian-born inventor Igor Sikorsky created the first successful, practical single-rotor helicopter.",
+					"description": "The VS-300 introduced the main rotor and tail rotor configuration that is still used in modern helicopters today.",
+					"extra": "This design became the foundation for global helicopter technology in rescue, military, transport, and medical missions."
+				},
+				"image": "images/inventions/europe/ukraine/helicopter.webp"
+			},
+			{
+				"name": "Modern Tractor Adaptations",
+				"inventor": "Ukrainian agricultural engineers",
+				"year": "1900s",
+				"information": {
+					"general": "Ukraine developed modifications for tractors to better suit large-scale grain farming.",
+					"description": "These adaptations included stronger plows, larger wheels, and improved engines for heavy-duty fieldwork.",
+					"extra": "They supported Ukraine's agricultural efficiency and contributed to the country's status as a major grain exporter."
+				},
+				"image": "images/inventions/europe/ukraine/tractor_adaptation.webp"
+			}
+		]
+	},
+	{
+		"country": "Sudan",
+		"inventions": [
+			{
+				"name": "Nile Boat Design",
+				"inventor": "Ancient Nubian and Sudanese craftsmen",
+				"year": "c. 2000 BCE",
+				"information": {
+					"general": "Ancient Sudanese peoples created advanced riverboats for transport, fishing, and trade along the Nile.",
+					"description": "Made from papyrus reeds or wood, these boats were lightweight, durable, and capable of carrying goods and passengers.",
+					"extra": "The design influenced river navigation across northeastern Africa and supported commerce and cultural exchange."
+				},
+				"image": "images/inventions/africa/sudan/nile_boat.webp"
+			},
+			{
+				"name": "Clay Water Jars",
+				"inventor": "Sudanese villagers",
+				"year": "c. 1000 BCE",
+				"information": {
+					"general": "Large clay jars were developed to store and cool water in arid climates.",
+					"description": "Their porous walls allow evaporative cooling, keeping water refreshingly cool in hot conditions.",
+					"extra": "This simple but effective technology is still used in Sudanese villages today and influenced water storage designs in dry regions."
+				},
+				"image": "images/inventions/africa/sudan/clay_water_jar.webp"
+			}
+		]
+	},
+	{
+		"country": "Thailand",
+		"inventions": [
+			{
+				"name": "Floating Market Boats",
+				"inventor": "Thai merchants",
+				"year": "c. 1700s",
+				"information": {
+					"general": "In Thailand, merchants developed specialized boats to conduct trade on canals and rivers.",
+					"description": "These wooden boats are shaped for stability and maneuverability, allowing vendors to sell fruits, vegetables, and cooked meals directly from the water.",
+					"extra": "Floating markets became a cultural icon and influenced local transportation and commerce systems."
+				},
+				"image": "images/inventions/asia/thailand/floating_market_boat.webp"
+			},
+			{
+				"name": "Muay Thai Training Equipment",
+				"inventor": "Thai martial artists",
+				"year": "c. 1800s",
+				"information": {
+					"general": "Specialized training tools were developed for Muay Thai, Thailand's national sport.",
+					"description": "This includes heavy bags, wooden dummies, and traditional pads to strengthen striking, agility, and endurance.",
+					"extra": "These inventions supported Thailand's cultural heritage and influenced martial arts training equipment worldwide."
+				},
+				"image": "images/inventions/asia/thailand/muay_thai_training_equipment.webp"
+			}
+		]
+	},
+	{
+		"country": "Finland",
+		"inventions": [
+			{
+				"name": "Linux Operating System",
+				"inventor": "Linus Torvalds",
+				"year": "1991",
+				"information": {
+					"general": "Linux is a free and open-source operating system kernel created by Linus Torvalds.",
+					"description": "It is used in servers, smartphones (Android), supercomputers, and embedded systems.",
+					"extra": "It powered much of the modern internet and software infrastructure."
+				},
+				"image": "images/inventions/europe/finland/linux.webp"
+			},
+			{
+				"name": "Nokia Mobile Phone Innovations",
+				"inventor": "Nokia engineers",
+				"year": "1980s–2000s",
+				"information": {
+					"general": "Nokia helped pioneer mass-market mobile phone technology.",
+					"description": "They developed compact phones, long-lasting batteries, and reliable GSM standards.",
+					"extra": "Nokia phones dominated the global market for many years."
+				},
+				"image": "images/inventions/europe/finland/nokia.webp"
+			},
+			{
+				"name": "Heart Rate Monitor",
+				"inventor": "Seppo Säynäjäkangas / Polar Electro",
+				"year": "1977",
+				"information": {
+					"general": "The wearable heart rate monitor was first developed for athletes in Finland.",
+					"description": "It allowed real-time tracking of heart rate during training exercises.",
+					"extra": "This technology is now standard in fitness trackers and smartwatches."
+				},
+				"image": "images/inventions/europe/finland/heart_monitor.webp"
+			}
+		]
+	},
+	{
+		"country": "Denmark",
+		"inventions": [
+			{
+				"name": "The Modern Wind Turbine",
+				"inventor": "Johannes Juul",
+				"year": "1957",
+				"information": {
+					"general": "Denmark created the first efficient modern wind turbine for generating electricity.",
+					"description": "It used aerodynamic blades and a sturdy tower design still used today.",
+					"extra": "Denmark remains a global leader in wind energy technology."
+				},
+				"image": "images/inventions/europe/denmark/wind_turbine.webp"
+			},
+			{
+				"name": "Lego Brick",
+				"inventor": "Ole Kirk Christiansen",
+				"year": "1958",
+				"information": {
+					"general": "The interlocking Lego brick revolutionized the toy industry.",
+					"description": "Its simple but effective locking system allows endless construction variations.",
+					"extra": "Lego became one of the most successful toy companies in history."
+				},
+				"image": "images/inventions/europe/denmark/lego.webp"
+			},
+			{
+				"name": "Ultrasound Scanner",
+				"inventor": "Inge Edler & Hellmuth Hertz (with Danish contributions)",
+				"year": "1950s",
+				"information": {
+					"general": "Denmark played a key role in developing early medical ultrasound technology.",
+					"description": "Sound waves were used to create images of internal organs, especially the heart.",
+					"extra": "Ultrasound remains essential for modern medical diagnostics."
+				},
+				"image": "images/inventions/europe/denmark/ultrasound.webp"
+			}
+		]
+	},
+	{
+		"country": "Sweden",
+		"inventions": [
+			{
+				"name": "Dynamite",
+				"inventor": "Alfred Nobel",
+				"year": "1867",
+				"information": {
+					"general": "Alfred Nobel invented dynamite to make blasting safer and more controllable.",
+					"description": "It combined nitroglycerin with an absorbent material, making it more stable to transport and use.",
+					"extra": "It revolutionized construction, mining, and engineering worldwide."
+				},
+				"image": "images/inventions/europe/sweden/dynamite.webp"
+			},
+			{
+				"name": "Three-Point Seatbelt",
+				"inventor": "Nils Bohlin (Volvo)",
+				"year": "1959",
+				"information": {
+					"general": "Volvo introduced the first modern three-point seatbelt to improve car safety.",
+					"description": "It secures both the upper and lower body in a single continuous strap system.",
+					"extra": "Volvo made the patent free so other manufacturers could use it, saving millions of lives."
+				},
+				"image": "images/inventions/europe/sweden/seatbelt.webp"
+			},
+			{
+				"name": "Adjustable Wrench",
+				"inventor": "Johan Petter Johansson",
+				"year": "1891",
+				"information": {
+					"general": "The adjustable wrench was designed to fit multiple bolt sizes with one tool.",
+					"description": "It allowed engineers and mechanics to adjust the jaw width using a screw mechanism.",
+					"extra": "This became an essential tool in mechanical work worldwide."
+				},
+				"image": "images/inventions/europe/sweden/adjustable_wrench.webp"
+			}
+		]
+	},
+	{
+		"country": "Iceland",
+		"inventions": [
+			{
+				"name": "Geothermal Heating Systems",
+				"inventor": "Icelandic engineers",
+				"year": "1930s",
+				"information": {
+					"general": "Iceland pioneered large-scale use of natural geothermal energy for heating.",
+					"description": "Hot water from underground sources is piped into homes and buildings.",
+					"extra": "Over 90% of Iceland's homes are heated this way, serving as a model for clean energy."
+				},
+				"image": "images/inventions/europe/iceland/geothermal.webp"
+			},
+			{
+				"name": "Fish Leather (Modern Use)",
+				"inventor": "Icelandic designers",
+				"year": "1998",
+				"information": {
+					"general": "Iceland popularized the commercial use of fish skin as a durable leather.",
+					"description": "The skins of salmon, perch, and cod are turned into textiles for clothing and accessories.",
+					"extra": "It is considered a sustainable, eco-friendly material innovation."
+				},
+				"image": "images/inventions/europe/iceland/fish_leather.webp"
+			},
+			{
+				"name": "Lopapeysa (Icelandic Wool Sweater)",
+				"inventor": "Icelandic knitters",
+				"year": "1950s",
+				"information": {
+					"general": "The Lopapeysa is a traditional Icelandic sweater made from local sheep wool.",
+					"description": "It is known for its thick texture and circular yoke patterns that provide extreme warmth.",
+					"extra": "It has become a symbol of Icelandic culture and is worn worldwide."
+				},
+				"image": "images/inventions/europe/iceland/lopapeysa.webp"
+			}
+		]
+	},
+	{
+		"country": "Belarus",
+		"inventions": [
+			{
+				"name": "Minsk Tractors (MTZ Series)",
+				"inventor": "Minsk Tractor Works",
+				"year": "1946",
+				"information": {
+					"general": "The Minsk Tractor Works became one of the world's largest producers of agricultural tractors.",
+					"description": "MTZ tractors are known for their durability and use in farming, forestry, and construction.",
+					"extra": "They have been exported to over 100 countries and played a major role in Soviet and post-Soviet agriculture."
+				},
+				"image": "images/inventions/europe/belarus/mtz_tractor.webp"
+			},
+			{
+				"name": "BelAZ Super Heavy Dump Truck",
+				"inventor": "BelAZ",
+				"year": "1958",
+				"information": {
+					"general": "Belarus developed the world's largest mining dump trucks through the BelAZ company.",
+					"description": "These vehicles are used in large-scale mining operations and can carry over 400 tons of material.",
+					"extra": "They hold world records for the heaviest operational land vehicles ever built."
+				},
+				"image": "images/inventions/europe/belarus/belaz.webp"
+			}
+		]
+	},
+	{
+		"country": "Lithuania",
+		"inventions": [
+			{
+				"name": "Euthanasia Coaster",
+				"inventor": "Julijonas Urbonas",
+				"year": "2010",
+				"information": {
+					"general": "The Euthanasia Coaster is a theoretical roller coaster designed to humanely end a life using extreme G-forces.",
+					"description": "Engineered to gradually increase G-forces to induce cerebral hypoxia, the coaster spirals for several minutes until the rider loses consciousness and eventually dies. It was conceived as a blend of science, ethics, and engineering.",
+					"extra": "Designed by Lithuanian artist and engineer Julijonas Urbonas, it serves as a provocative exploration of mortality, ethics, and human fascination with death rather than a practical device."
+				},
+				"image": "images/inventions/europe/lithuania/euthanasia_coaster.webp"
+			},
+			{
+				"name": "Amber Jewelry",
+				"inventor": "Baltic Craftsmen",
+				"year": "Ancient times",
+				"information": {
+					"general": "Lithuania is renowned for crafting jewelry from Baltic amber, a resin from prehistoric trees.",
+					"description": "Artisans carve amber into beads, pendants, and ornaments. Its natural warm hues and inclusions make each piece unique.",
+					"extra": "Amber trade flourished along the Baltic Sea route. Lithuania remains a major exporter, blending traditional and modern designs."
+				},
+				"image": "images/inventions/europe/lithuania/amber_jewelry.webp"
+			},
+			{
+				"name": "Dainos (Folk Song Notation)",
+				"inventor": "Lithuanian Musicians",
+				"year": "19th century",
+				"information": {
+					"general": "Dainos are traditional Lithuanian folk songs, with early systems developed to record and preserve them.",
+					"description": "Musicians used simple notation to capture melodies and lyrics, keeping oral traditions alive through written form.",
+					"extra": "These notations helped protect Lithuania's cultural identity during foreign occupations, influencing modern ethnomusicology."
+				},
+				"image": "images/inventions/europe/lithuania/dainos.webp"
+			}
+		]
+	},
+	{
+		"country": "Democratic Republic of the Congo",
+		"inventions": [
+			{
+				"name": "Kuba Textile Weaving",
+				"inventor": "Kuba People",
+				"year": "15th century",
+				"information": {
+					"general": "The Kuba people developed intricate textile weaving techniques that produced richly decorated fabrics using raffia fibers.",
+					"description": "Using hand-loomed raffia fibers, they created geometric patterns and symbolic designs. These textiles were used for ceremonial purposes, clothing, and trade.",
+					"extra": "The designs often carry cultural and historical meanings, with motifs representing lineage, social status, and storytelling. Kuba textiles remain a world-renowned art form."
+				},
+				"image": "images/inventions/africa/dr_congo/kuba_textile.webp"
+			},
+			{
+				"name": "Ebola Diagnostic Kit",
+				"inventor": "Institut National de Recherche Biomédicale (INRB)",
+				"year": "2014",
+				"information": {
+					"general": "Developed during the Ebola outbreak, this rapid diagnostic kit allows field detection of Ebola virus.",
+					"description": "Compact and portable, it provides test results in hours instead of days, crucial for controlling outbreaks.",
+					"extra": "The kit has been deployed internationally and influenced rapid virus detection technology."
+				},
+				"image": "images/inventions/africa/dr_congo/ebola_kit.webp"
+			}
+		]
+	},
+	{
+		"country": "Angola",
+		"inventions": [
+			{
+				"name": "Mbundu Quilting Techniques",
+				"inventor": "Mbundu People",
+				"year": "16th century",
+				"information": {
+					"general": "The Mbundu people of Angola developed traditional quilting and embroidery techniques for clothing and ceremonial garments.",
+					"description": "Using cotton and natural dyes, artisans stitched geometric patterns and motifs into textiles, reflecting social identity and spiritual beliefs.",
+					"extra": "These textiles were historically used in royal attire and ceremonies and influenced modern Angolan fashion and decorative arts."
+				},
+				"image": "images/inventions/africa/angola/mbundu_quilting.webp"
+			},
+			{
+				"name": "Marimba (Angolan Xylophone)",
+				"inventor": "Local Angolan Communities",
+				"year": "traditional / centuries-old",
+				"information": {
+					"general": "The Angolan marimba is a wooden percussion instrument used in music and dance, popular in festivals and celebrations.",
+					"description": "Constructed from tuned wooden bars placed over resonating gourds or wooden boxes, it produces melodic tones when struck with mallets. It's often played in ensembles and accompanies songs and dances.",
+					"extra": "The marimba is a fun, interactive instrument that has influenced modern African music and is still widely played in Angola today."
+				},
+				"image": "images/inventions/africa/angola/marimba.webp"
+			}
+		]
+	},
+	{
+		"country": "Chile",
+		"inventions": [
+			{
+				"name": "Wine Fermentation Tanks",
+				"inventor": "Chilean Winemakers",
+				"year": "1970s",
+				"information": {
+					"general": "Specialized stainless steel tanks designed to improve the fermentation process of wine production.",
+					"description": "These tanks allow precise temperature and oxygen control, resulting in higher quality wines and consistent production.",
+					"extra": "Chilean innovation in viticulture has helped the country become a world leader in premium wine exports."
+				},
+				"image": "images/inventions/south_america/chile/wine_tanks.webp"
+			},
+			{
+				"name": "Cerro Tololo Observatory Instruments",
+				"inventor": "Chilean and International Astronomers",
+				"year": "1960s",
+				"information": {
+					"general": "Advanced optical instruments designed for one of the world's leading astronomical observatories in Chile.",
+					"description": "These instruments, including telescopes and spectrographs, enabled high-precision observations of stars, galaxies, and exoplanets.",
+					"extra": "Cerro Tololo Observatory contributed to major discoveries in astronomy, positioning Chile as a global hub for space research.",
+					"image": "images/inventions/south_america/chile/cerro_tololo_instruments.webp"
+				}
+			}
+		]
+	},
+	{
+		"country": "UAE",
+		"inventions": [
+			{
+				"name": "Solar Desalination Pilot",
+				"inventor": "Mohammed bin Rashid Al Maktoum initiatives",
+				"year": "2000s",
+				"information": {
+					"general": "Developed to turn seawater into drinkable water using solar energy.",
+					"description": "The system uses solar panels to power desalination units, reducing energy consumption compared to traditional methods.",
+					"extra": "Inspired by the UAE's need for sustainable water solutions in a desert climate, this technology supports future urban planning and agriculture."
+				},
+				"image": "images/inventions/asia/uae/solar_desalination.webp"
+			},
+			{
+				"name": "Desert Solar Park",
+				"inventor": "Abu Dhabi National Energy Company (TAQA) & Masdar",
+				"year": "2013",
+				"information": {
+					"general": "One of the largest solar parks in the world for renewable energy generation.",
+					"description": "Uses photovoltaic and concentrated solar power technologies to generate electricity for the grid.",
+					"extra": "Part of UAE's commitment to clean energy and reducing carbon emissions."
+				},
+				"image": "images/inventions/asia/uae/desert_solar_park.webp"
+			}
+		]
+	},
+	{
+		"country": "Switzerland",
+		"inventions": [
+			{
+				"name": "Swiss Army Knife",
+				"inventor": "Karl Elsener",
+				"year": "1891",
+				"information": {
+					"general": "A compact multi-tool originally for soldiers.",
+					"description": "Combines blades, screwdrivers, and other tools in one portable device.",
+					"extra": "Elsener was inspired to make soldiers' tools safer and more versatile. It became a global icon of Swiss ingenuity."
+				},
+				"image": "images/inventions/europe/switzerland/swiss_army_knife.webp"
+			},
+			{
+				"name": "Velcro",
+				"inventor": "George de Mestral",
+				"year": "1941",
+				"information": {
+					"general": "Hook-and-loop fastener inspired by nature.",
+					"description": "He noticed burrs sticking to clothing and recreated the mechanism with synthetic materials.",
+					"extra": "Velcro became widely used in clothing, shoes, aerospace, and sports equipment."
+				},
+				"image": "images/inventions/europe/switzerland/velcro.webp"
+			},
+			{
+				"name": "Red Cross Symbol",
+				"inventor": "Henry Dunant (Swiss founder)",
+				"year": "1863",
+				"information": {
+					"general": "Universal emblem for humanitarian aid.",
+					"description": "Used on medical personnel and hospitals to signify neutrality in conflicts.",
+					"extra": "The Red Cross became globally recognized and inspired international humanitarian law."
+				},
+				"image": "images/inventions/europe/switzerland/red_cross.webp"
+			}
+		]
+	},
+	{
+		"country": "Austria",
+		"inventions": [
+			{
+				"name": "Snow Globe",
+				"inventor": "Erwin Perzy",
+				"year": "1900",
+				"information": {
+					"general": "Decorative glass spheres containing miniature scenes and artificial snow.",
+					"description": "Perzy experimented with light-reflecting powders to enhance the effect inside glass globes.",
+					"extra": "Initially intended as a scientific tool, it became a popular decorative souvenir."
+				},
+				"image": "images/inventions/europe/austria/snow_globe.webp"
+			},
+			{
+				"name": "Theremin",
+				"inventor": "Léon Theremin",
+				"year": "1920",
+				"information": {
+					"general": "One of the first electronic musical instruments controlled without physical contact.",
+					"description": "Played by moving hands near antennas to control pitch and volume electronically.",
+					"extra": "Influenced electronic music and inspired future innovations in sound synthesis and music technology."
+				},
+				"image": "images/inventions/europe/austria/theremin.webp"
+			},
+			{
+				"name": "Semmelweis Hand Hygiene Principles",
+				"inventor": "Ignaz Semmelweis",
+				"year": "1847",
+				"information": {
+					"general": "Pioneering hygiene practices in medicine to reduce infections.",
+					"description": "Introduced systematic handwashing in obstetric clinics, drastically lowering mortality rates.",
+					"extra": "Semmelweis' work laid the foundation for modern antiseptic techniques and infection control."
+				},
+				"image": "images/inventions/europe/austria/semmelweis_hygiene.webp"
+			}
+		]
+	},
+	{
+		"country": "Belgium",
+		"inventions": [
+			{
+				"name": "Plastic Saxophone",
+				"inventor": "Adolphe Sax",
+				"year": "1846",
+				"information": {
+					"general": "Musical instrument blending woodwind and brass properties.",
+					"description": "Originally crafted from metal; modern adaptations include plastic to reduce weight.",
+					"extra": "Sax's invention revolutionized jazz, classical, and military music worldwide."
+				},
+				"image": "images/inventions/europe/belgium/saxophone.webp"
+			},
+			{
+				"name": "Body Mass Index (BMI)",
+				"inventor": "Adolphe Quetelet",
+				"year": "1832",
+				"information": {
+					"general": "Method to measure body fat based on height and weight.",
+					"description": "Uses a simple mathematical formula to categorize underweight, normal, overweight, and obesity.",
+					"extra": "Quetelet's index is still widely used in medicine, fitness, and nutrition research today."
+				},
+				"image": "images/inventions/europe/belgium/bmi.webp"
+			},
+			{
+				"name": "Cinematic Special Effects",
+				"inventor": "Georges Méliès Belgian collaborators",
+				"year": "1890s",
+				"information": {
+					"general": "Innovative techniques for early film effects.",
+					"description": "Used stop-motion, double exposure, and miniatures to create fantastical visuals.",
+					"extra": "Belgian cinema technicians helped spread these methods, influencing modern visual effects."
+				},
+				"image": "images/inventions/europe/belgium/special_effects.webp"
+			}
+		]
+	},
+	{
+		"country": "Czech Republic",
+		"inventions": [
+			{
+				"name": "Sugar Cube",
+				"inventor": "Jakub Kryštof Rad",
+				"year": "1843",
+				"information": {
+					"general": "Convenient cube-shaped sugar pieces.",
+					"description": "Compressed refined sugar into uniform cubes for easier use in beverages.",
+					"extra": "Rad was motivated by the inconvenience of cutting sugar from blocks in households and cafés."
+				},
+				"image": "images/inventions/europe/czech_republic/sugar_cube.webp"
+			},
+			{
+				"name": "Contact Lens Material Development",
+				"inventor": "Otto Wichterle",
+				"year": "1961",
+				"information": {
+					"general": "Soft hydrogel for modern contact lenses.",
+					"description": "Used polymer chemistry to produce lenses that are flexible and comfortable.",
+					"extra": "This breakthrough made daily-wear contact lenses practical for millions."
+				},
+				"image": "images/inventions/europe/czech_republic/contact_lens.webp"
+			}
+		]
+	},
+	{
+		"country": "Cuba",
+		"inventions": [
+			{
+				"name": "Cuban Cigar Innovation",
+				"inventor": "Local artisans",
+				"year": "1700s",
+				"information": {
+					"general": "Advanced cigar rolling and curing techniques.",
+					"description": "Enhanced quality, consistency, and flavor of hand-rolled cigars.",
+					"extra": "Cuba became globally renowned for its cigars, influencing tobacco production worldwide."
+				},
+				"image": "images/inventions/north_america/cuba/cuban_cigar.webp"
+			},
+			{
+				"name": "Cuban Musical Instruments (Tres Guitar)",
+				"inventor": "Cuban luthiers",
+				"year": "19th century",
+				"information": {
+					"general": "Three-course guitar used in Cuban Son music.",
+					"description": "Wooden body with three double strings, handcrafted for specific tonal qualities.",
+					"extra": "Instrument is central to Cuban music and represents traditional craftsmanship."
+				},
+				"image": "images/inventions/north_america/cuba/tres_guitar.webp"
+			}
+		]
+	},
+	{
+		"country": "Ireland",
+		"inventions": [
+			{
+				"name": "Submarine Telegraph Cable",
+				"inventor": "Cork engineers, 1850s",
+				"year": "1850s",
+				"information": {
+					"general": "Improved long-distance communication under the sea.",
+					"description": "Engineered insulated copper wires to transmit telegraph signals across oceans.",
+					"extra": "Irish innovation helped establish global telecommunication networks."
+				},
+				"image": "images/inventions/europe/ireland/submarine_cable.webp"
+			},
+			{
+				"name": "Portable Defibrillator",
+				"inventor": "Irish engineers, 1960s",
+				"year": "1965",
+				"information": {
+					"general": "Device to restore normal heart rhythm.",
+					"description": "Uses controlled electrical pulses to treat cardiac arrest.",
+					"extra": "It revolutionized emergency medical response and saved countless lives."
+				},
+				"image": "images/inventions/europe/ireland/defibrillator.webp"
+			},
+			{
+				"name": "Guinness Beer Innovations",
+				"inventor": "Arthur Guinness",
+				"year": "1759",
+				"information": {
+					"general": "Pioneered stout brewing methods.",
+					"description": "Refined fermentation, roasting, and nitrogenation techniques to perfect Guinness.",
+					"extra": "Influenced beer production worldwide and became an iconic Irish export."
+				},
+				"image": "images/inventions/europe/ireland/guinness.webp"
+			}
+		]
+	},
+	{
+		"country": "Malaysia",
+		"inventions": [
+			{
+				"name": "Single-Chip USB Flash Drive",
+				"inventor": "Pua Khein Seng",
+				"year": "2000",
+				"information": {
+					"general": "Compact data storage device integrating all components on a single chip.",
+					"description": "Revolutionized portable digital storage by making USB flash drives smaller, faster, and more reliable.",
+					"extra": "This innovation helped Malaysia become a key player in global data storage technology."
+				},
+				"image": "images/inventions/asia/malaysia/usb_flash_drive.webp"
+			},
+			{
+				"name": "Biometric Passport",
+				"inventor": "IRIS Corporation Malaysia",
+				"year": "1998",
+				"information": {
+					"general": "Secure passport embedded with biometric identification technology.",
+					"description": "Includes fingerprint and facial recognition data to prevent forgery and improve border security.",
+					"extra": "IRIS Corp's innovation has been adopted by several countries worldwide for e-passports."
+				},
+				"image": "images/inventions/asia/malaysia/biometric_passport.webp"
+			},
+			{
+				"name": "Automatic Egg Boiler",
+				"inventor": "Malaysian engineers",
+				"year": "2005",
+				"information": {
+					"general": "Appliance to cook eggs perfectly without monitoring.",
+					"description": "Boils eggs to soft, medium, or hard consistency using automated temperature and timing controls.",
+					"extra": "Popularized household convenience in Malaysia and exported globally."
+				},
+				"image": "images/inventions/asia/malaysia/automatic_egg_boiler.webp"
+			}
+		]
+	},
+	{
+		"country": "Iraq",
+		"inventions": [
+			{
+				"name": "The Wheel",
+				"inventor": "Sumerians (Ancient Mesopotamia)",
+				"year": "Around 3500 BCE",
+				"information": {
+					"general": "One of humanity's most important inventions, the wheel first appeared in ancient Mesopotamia, in what is now Iraq.",
+					"description": "Originally used for pottery, the wheel later enabled carts, transport, and mechanical devices, transforming human civilization.",
+					"extra": "The earliest known wheel was discovered near the ancient city of Ur, showing Iraq's central role in early technological development."
+				},
+				"image": "images/inventions/asia/iraq/wheel.webp"
+			},
+			{
+				"name": "Cuneiform Writing",
+				"inventor": "Sumerians",
+				"year": "Around 3200 BCE",
+				"information": {
+					"general": "Cuneiform, the world's first known writing system, was created in Mesopotamia to record trade, laws, and literature.",
+					"description": "It consisted of wedge-shaped marks pressed into clay tablets using a reed stylus, enabling administration and storytelling.",
+					"extra": "This writing system led to famous texts like the Epic of Gilgamesh and influenced future alphabets across the region."
+				},
+				"image": "images/inventions/asia/iraq/cuneiform.webp"
+			},
+			{
+				"name": "The First Laws: Code of Hammurabi",
+				"inventor": "Babylonian Scholars",
+				"year": "1754 BCE",
+				"information": {
+					"general": "The Code of Hammurabi, created in Babylon, is one of the earliest and most complete written legal codes.",
+					"description": "Carved into a basalt stele, the laws established standards for contracts, family issues, property, and justice.",
+					"extra": "Its famous phrase 'an eye for an eye' represents proportional justice, influencing legal traditions for millennia."
+				},
+				"image": "images/inventions/asia/iraq/hammurabi.webp"
+			}
+		]
+	},
+	{
+		"country": "Saudi Arabia",
+		"inventions": [
+			{
+				"name": "Astrolabe Improvements",
+				"inventor": "Arab Astronomers of the Hejaz",
+				"year": "8th–10th Century",
+				"information": {
+					"general": "Arab astronomers refined the astrolabe, an instrument used to measure stars and navigate across deserts and seas.",
+					"description": "Their enhancements improved accuracy for prayer times, navigation, and astronomical calculations.",
+					"extra": "These advancements were developed in major Arabian centers including Mecca and Medina, influencing global navigation and science."
+				},
+				"image": "images/inventions/asia/saudi_arabia/astrolabe.webp"
+			},
+			{
+				"name": "Oil Extraction & Drilling Innovations",
+				"inventor": "Saudi Aramco Engineers",
+				"year": "1930s–Present",
+				"information": {
+					"general": "Saudi engineers and geologists modernized oil extraction techniques after the discovery of oil in the 1930s.",
+					"description": "Advances included deeper drilling, enhanced oil recovery, and large-scale offshore extraction technologies.",
+					"extra": "These innovations helped Saudi Arabia become a global leader in petroleum technology and energy production."
+				},
+				"image": "images/inventions/asia/saudi_arabia/drilling.webp"
+			},
+			{
+				"name": "Desalination Technologies",
+				"inventor": "Saudi Water Conversion Corporation (SWCC)",
+				"year": "1970s–Present",
+				"information": {
+					"general": "Saudi Arabia pioneered large-scale desalination technologies to transform seawater into drinking water.",
+					"description": "The country developed massive reverse osmosis and multi-stage flash distillation plants to supply water to cities and farms.",
+					"extra": "Saudi Arabia is now the world's largest producer of desalinated water, influencing global water sustainability efforts."
+				},
+				"image": "images/inventions/asia/saudi_arabia/desalination.webp"
+			}
+		]
+	},
+	{
+		"country": "Afghanistan",
+		"inventions": [
+			{
+				"name": "Early Windmills",
+				"inventor": "Persian Engineers (Used in region including Afghan territories)",
+				"year": "500–900 CE",
+				"information": {
+					"general": "Some of the earliest vertical-axis windmills appeared in regions that include present-day Afghanistan.",
+					"description": "These mills used vertical sails to grind grain and pump water, functioning in the windy plateaus of eastern Persia and western Afghanistan.",
+					"extra": "Their design influenced later windmill developments across the Middle East and Central Asia."
+				},
+				"image": "images/inventions/asia/afghanistan/windmill.webp"
+			},
+			{
+				"name": "The Rubab",
+				"inventor": "Pashtun and Tajik Artisans",
+				"year": "7th–10th Century",
+				"information": {
+					"general": "The Afghan rubab, a traditional stringed instrument, is considered one of the earliest known precursors to modern guitars.",
+					"description": "Carved from mulberry wood and covered with goat skin, it produces deep, resonant tones central to Afghan folk music.",
+					"extra": "Its musical influence spread into India, inspiring the creation of the sarod — a key instrument in classical Hindustani music."
+				},
+				"image": "images/inventions/asia/afghanistan/rubab.webp"
+			}
+		]
+	},
+	{
+		"country": "Syria",
+		"inventions": [
+			{
+				"name": "Damascus Steel",
+				"inventor": "Medieval Syrian Bladesmiths",
+				"year": "Around 900–1750 CE",
+				"information": {
+					"general": "One of the most legendary steels in history, renowned for its strength, sharpness, and wave-like patterns.",
+					"description": "Crafted using advanced forging techniques, Damascus steel swords were prized across Europe and Asia for their durability and beauty.",
+					"extra": "Although the original process has been lost, modern metallurgy continues to study Damascus steel to replicate its unique makeup."
+				},
+				"image": "images/inventions/asia/syria/damascus_steel.webp"
+			},
+			{
+				"name": "Aleppo Soap",
+				"inventor": "Syrian Artisans",
+				"year": "Around 2000 BCE",
+				"information": {
+					"general": "One of the world's oldest natural soaps, made from olive oil and laurel oil.",
+					"description": "Produced using traditional hot process techniques, Aleppo soap influenced the development of soap-making in Europe.",
+					"extra": "It is considered the ancestor of Marseille soap and continues to be crafted in Aleppo today."
+				},
+				"image": "images/inventions/asia/syria/aleppo_soap.webp"
+			},
+			{
+				"name": "Ugaritic Alphabet",
+				"inventor": "Ugaritic Scribes",
+				"year": "Around 1400 BCE",
+				"information": {
+					"general": "One of the earliest known alphabets, discovered in the ancient city of Ugarit (modern Ras Shamra).",
+					"description": "The 30-letter cuneiform alphabet simplified writing compared to complex pictographic systems.",
+					"extra": "It influenced later alphabetic systems and is considered a major step in the history of written language."
+				},
+				"image": "images/inventions/asia/syria/ugaritic_alphabet.webp"
+			}
+		]
+	},
+	{
+		"country": "Romania",
+		"inventions": [
+			{
+				"name": "The Jet Engine (Coandă-1910)",
+				"inventor": "Henri Coandă",
+				"year": "1910",
+				"information": {
+					"general": "Henri Coandă built the world's first jet-powered aircraft prototype, marking the birth of jet propulsion.",
+					"description": "His aircraft used a pioneering engine that expelled air at high speed, creating thrust — a concept fundamental to modern jet engines.",
+					"extra": "Coandă also discovered the Coandă Effect, crucial in aerodynamics and fluid dynamics."
+				},
+				"image": "images/inventions/europe/romania/jet_engine.webp"
+			},
+			{
+				"name": "Insulin (Co-discovery Contribution)",
+				"inventor": "Nicolae Paulescu",
+				"year": "1916–1921",
+				"information": {
+					"general": "Romanian physiologist Nicolae Paulescu conducted groundbreaking research on diabetes treatment.",
+					"description": "He isolated a pancreatic extract he named 'pancreina', which lowered blood sugar levels — an essential step toward modern insulin.",
+					"extra": "Although the Nobel Prize went to Banting and Best, many historians argue that Paulescu should share credit for the discovery."
+				},
+				"image": "images/inventions/europe/romania/insulin.webp"
+			},
+			{
+				"name": "Cybernetics Foundations",
+				"inventor": "Stefan Odobleja",
+				"year": "1938",
+				"information": {
+					"general": "Stefan Odobleja is considered a precursor of modern cybernetics.",
+					"description": "His work 'Psychologie consonantiste' introduced concepts such as feedback mechanisms years before Norbert Wiener formalized cybernetics.",
+					"extra": "Odobleja's theories influenced systems science, robotics, and computer science."
+				},
+				"image": "images/inventions/europe/romania/cybernetics.webp"
+			}
+		]
+	},
+	{
+		"country": "Uruguay",
+		"inventions": [
+			{
+				"name": "Selective Frost-Protection Device (SIS)",
+				"inventor": "Rafael Andrés Guarga Ferro",
+				"year": "Late 1990s",
+				"information": {
+					"general": "A device to protect agricultural plants from frost by selective inverted sink mechanism.",
+					"description": "The SIS device helps farmers prevent frost damage by controlling radiational frost in vulnerable crops.",
+					"extra": "This invention has helped improve agricultural resilience in frost-prone regions."
+				},
+				"image": "images/inventions/south_america/uruguay/frost_protection_device.webp"
+			},
+			{
+				"name": "Livestock-monitoring collar 'Chipsafer'",
+				"inventor": "María Victoria Alonsoperez",
+				"year": "2013",
+				"information": {
+					"general": "A solar-powered collar for cattle that tracks movement data and detects anomalies remotely.",
+					"description": "Chipsafer uses sensors to monitor cattle behavior, helping detect illness or theft early and enabling remote livestock management.",
+					"extra": "Recognized as an innovative ag-tech startup in Latin America, it exemplifies modern IoT-based agriculture solutions."
+				},
+				"image": "images/inventions/south_america/uruguay/chipsafer_collar.webp"
+			}
+		]
+	},
+	{
+		"country": "Paraguay",
+		"inventions": [
+			{
+				"name": "Tereré (Cold Herbal Infusion)",
+				"inventor": "Traditional Guaraní Communities",
+				"year": "Pre-Columbian Era",
+				"information": {
+					"general": "Tereré is a cold herbal infusion made from yerba mate and water, popularized in Paraguay and neighboring regions.",
+					"description": "Prepared by steeping yerba mate in cold water, often flavored with herbs or citrus, it is served in a guampa (hollowed-out horn) and drunk through a metal straw called a ‘bombilla.' It is both refreshing and culturally significant.",
+					"extra": "Tereré is not only a beverage but a social ritual, reflecting community, hospitality, and Guaraní traditions. UNESCO recognizes it as part of Paraguay's intangible cultural heritage."
+				},
+				"image": "images/inventions/south_america/paraguay/terere.webp"
+			},
+			{
+				"name": "Ñandutí Lace",
+				"inventor": "Paraguayan Artisans",
+				"year": "17th Century",
+				"information": {
+					"general": "Ñandutí is a traditional Paraguayan lace known for its intricate web-like patterns.",
+					"description": "Crafted by hand using fine threads, Ñandutí resembles a spider web (‘ñandutí' means spider web in Guaraní). It is used to decorate clothing, tablecloths, and ceremonial garments.",
+					"extra": "The craft combines Spanish lace techniques with indigenous Guaraní designs. It remains a symbol of Paraguayan artistry and cultural identity, exported worldwide as a decorative art form."
+				},
+				"image": "images/inventions/south_america/paraguay/nanduti_lace.webp"
+			}
+		]
+	},
+	{
+		"country": "Portugal",
+		"inventions": [
+			{
+				"name": "Caravel (Ship Design)",
+				"inventor": "Portuguese Shipbuilders",
+				"year": "15th Century",
+				"information": {
+					"general": "The caravel was a small, highly maneuverable ship developed for long-distance exploration.",
+					"description": "With its lateen sails and sleek design, the caravel allowed Portuguese explorers to navigate the Atlantic and African coasts, significantly advancing maritime discovery.",
+					"extra": "It played a crucial role during the Age of Discoveries, enabling voyages by Vasco da Gama and others that connected Europe to India and beyond."
+				},
+				"image": "images/inventions/europe/portugal/caravel.webp"
+			},
+			{
+				"name": "Portuguese Pavement (Calçada Portuguesa)",
+				"inventor": "Portuguese Artisans",
+				"year": "19th Century",
+				"information": {
+					"general": "Calçada Portuguesa is a decorative pavement made from small stones forming intricate patterns.",
+					"description": "Using black and white stones, artisans create geometric and figurative designs for streets, plazas, and walkways, blending artistry and functionality.",
+					"extra": "It remains an iconic feature of Portuguese cities and has influenced urban design in Brazil and other former colonies."
+				},
+				"image": "images/inventions/europe/portugal/portuguese_pavement.webp"
+			}
+		]
+	},
+	{
+		"country": "Hungary",
+		"inventions": [
+			{
+				"name": "Rubik's Cube",
+				"inventor": "Ernő Rubik",
+				"year": "1974",
+				"information": {
+					"general": "The Rubik's Cube is a 3D combination puzzle that challenges spatial reasoning and problem-solving skills.",
+					"description": "Consisting of a 3x3 cube with rotating sides, it requires aligning colors on each face, offering both a toy and a mathematical challenge.",
+					"extra": "Rubik originally designed it as a teaching tool for architecture students. It became a worldwide phenomenon and a symbol of intellectual play."
+				},
+				"image": "images/inventions/europe/hungary/rubiks_cube.webp"
+			},
+			{
+				"name": "Ballpoint Pen (Modern Design)",
+				"inventor": "László Bíró",
+				"year": "1938",
+				"information": {
+					"general": "The modern ballpoint pen uses a rolling ball to dispense ink smoothly and evenly on paper.",
+					"description": "Bíró's invention solved smudging problems of fountain pens, providing a practical tool for everyday writing.",
+					"extra": "His design revolutionized writing instruments globally and led to widespread commercial production."
+				},
+				"image": "images/inventions/europe/hungary/ballpoint_pen.webp"
+			},
+			{
+				"name": "Vitamin C Isolation",
+				"inventor": "Albert Szent-Györgyi",
+				"year": "1932",
+				"information": {
+					"general": "Albert Szent-Györgyi isolated vitamin C, crucial for human health and preventing scurvy.",
+					"description": "He extracted ascorbic acid from paprika and citrus fruits, paving the way for nutritional science and supplementation.",
+					"extra": "This discovery earned him the Nobel Prize in Physiology or Medicine in 1937 and had a global impact on medicine and dietetics."
+				},
+				"image": "images/inventions/europe/hungary/vitamin_c.webp"
+			}
+		]
+	},
+	{
+		"country": "Slovakia",
+		"inventions": [
+			{
+				"name": "Fujara (Traditional Shepherd's Flute)",
+				"inventor": "Slovak Artisans",
+				"year": "1700s",
+				"information": {
+					"general": "The fujara is a large, intricately decorated wooden flute from Slovakia.",
+					"description": "It produces deep, melodic tones and is traditionally played by shepherds in the countryside. Each fujara is handcrafted from wood, often with decorative carvings.",
+					"extra": "UNESCO recognizes the fujara as part of Slovakia's intangible cultural heritage, but it is a tangible, playable instrument central to Slovak folk culture."
+				},
+				"image": "images/inventions/europe/slovakia/fujara.webp"
+			},
+			{
+				"name": "Loden Wool (Traditional Textile)",
+				"inventor": "Slovak Craftsmen",
+				"year": "1200s",
+				"information": {
+					"general": "Loden wool is a water-resistant, dense textile used for clothing and outerwear.",
+					"description": "The wool is felted and brushed to create a thick, durable fabric ideal for mountain climates and outdoor wear.",
+					"extra": "It became widely used in Central Europe for coats and capes, maintaining its reputation as a functional, traditional material."
+				},
+				"image": "images/inventions/europe/slovakia/loden_wool.webp"
+			}
+		]
+	},
+	{
+		"country": "Bulgaria",
+		"inventions": [
+			{
+				"name": "Bulgarian Yogurt with Lactobacillus bulgaricus",
+				"inventor": "Stamen Grigorov",
+				"year": "1905",
+				"information": {
+					"general": "Bulgarian yogurt is characterized by its unique taste and health benefits.",
+					"description": "Grigorov identified Lactobacillus bulgaricus, the bacterium responsible for fermenting milk into yogurt, which contributed to probiotic science.",
+					"extra": "This discovery helped popularize yogurt globally and promoted research into beneficial bacteria for human health."
+				},
+				"image": "images/inventions/europe/bulgaria/bulgarian_yogurt.webp"
+			},
+			{
+				"name": "Rose Oil Extraction Techniques",
+				"inventor": "Bulgarian Distillers",
+				"year": "1820s",
+				"information": {
+					"general": "Bulgaria developed advanced methods for extracting essential oils from Rosa damascena.",
+					"description": "Using steam distillation, Bulgarian rose oil achieves high purity and aromatic quality, widely used in perfumery.",
+					"extra": "Bulgarian rose oil remains globally prized and supports a major cultural and economic industry in the Rose Valley."
+				},
+				"image": "images/inventions/europe/bulgaria/rose_oil.webp"
+			}
+		]
+	},
+	{
+		"country": "Croatia",
+		"inventions": [
+			{
+				"name": "Međimurje Pottery",
+				"inventor": "Croatian Artisans",
+				"year": "1300s",
+				"information": {
+					"general": "Traditional pottery from the Međimurje region of Croatia is known for its durability and decorative patterns.",
+					"description": "Handcrafted clay pots are often painted with floral or geometric motifs and used for storage, cooking, and cultural rituals.",
+					"extra": "This craft preserves centuries-old techniques and remains an important symbol of Croatian folk art."
+				},
+				"image": "images/inventions/europe/croatia/medimurje_pottery.webp"
+			},
+			{
+				"name": "Tuna Canning Industry",
+				"inventor": "Croatian Entrepreneurs",
+				"year": "1870s",
+				"information": {
+					"general": "Croatia pioneered modern tuna canning techniques along its Adriatic coast.",
+					"description": "Using sterilization and preservation methods, canned tuna became a reliable product for export and local consumption.",
+					"extra": "Croatia remains one of the leading European producers of canned seafood, linking innovation to its maritime tradition."
+				},
+				"image": "images/inventions/europe/croatia/tuna_canning.webp"
+			}
+		]
+	},
+	{
+		"country": "Bosnia and Herzegovina",
+		"inventions": [
+			{
+				"name": "Stećci (Medieval Tombstones)",
+				"inventor": "Medieval Bosnian Artisans",
+				"year": "1200s–1500s",
+				"information": {
+					"general": "Stećci are unique medieval tombstones decorated with symbolic carvings found across Bosnia and Herzegovina.",
+					"description": "Carved from limestone, they feature motifs like spirals, crosses, and hunting scenes, reflecting social, spiritual, and artistic values.",
+					"extra": "UNESCO recognizes stećci as part of the world's cultural heritage, showcasing medieval Bosnian craftsmanship."
+				},
+				"image": "images/inventions/europe/bosnia/stecci.webp"
+			},
+			{
+				"name": "Traditional Bosnian Embroidery (Vez)",
+				"inventor": "Bosnian Artisans",
+				"year": "1700s",
+				"information": {
+					"general": "Bosnian embroidery, or vez, is a traditional textile art featuring colorful geometric and floral designs.",
+					"description": "Applied to clothing, linens, and ceremonial garments, it reflects local identity and cultural continuity.",
+					"extra": "This craft is still taught and practiced today, maintaining its role in festivals, weddings, and daily life as a living tradition."
+				},
+				"image": "images/inventions/europe/bosnia/bosnian_embroidery.webp"
+			}
+		]
+	},
+	{
+		"country": "Ethiopia",
+		"inventions": [
+			{
+				"name": "Mesob (Injera Basket-Table)",
+				"inventor": "Harari and Ethiopian artisans (traditional craft)",
+				"year": "1500s",
+				"information": {
+					"general": "A woven basket used to store and serve injera.",
+					"description": "Provides a durable, breathable container and communal table for injera and stews, fostering communal eating.",
+					"extra": "Documented in the 16th century by Portuguese explorers."
+				},
+				"image": "images/inventions/africa/ethiopia/mesob.webp"
+			},
+			{
+				"name": "Automated Injera Baking Machine",
+				"inventor": "Yoseph Temesgen",
+				"year": "2008",
+				"information": {
+					"general": "Machine for baking injera automatically.",
+					"description": "Mixes batter, heats the surface, and cooks injera faster and more uniformly than traditional methods.",
+					"extra": "Allows mass production for diaspora communities and restaurants abroad."
+				},
+				"image": "images/inventions/africa/ethiopia/injera_machine.webp"
+			}
+		]
+	},
+	{
+		"country": "Bangladesh",
+		"inventions": [
+			{
+				"name": "Jamdani Textile",
+				"inventor": "Bangladeshi weavers",
+				"year": "200 BC",
+				"information": {
+					"general": "Delicate handwoven muslin fabric with intricate patterns.",
+					"description": "Artisans interlace threads to build floral and geometric patterns directly into the weave.",
+					"extra": "Recognized by UNESCO as intangible cultural heritage."
+				},
+				"image": "images/inventions/asia/bangladesh/jamdani_sari.webp"
+			},
+			{
+				"name": "Biodegradable Jute Bag (Sonali Bag)",
+				"inventor": "Mubarak Ahmad Khan",
+				"year": "2017",
+				"information": {
+					"general": "Eco-friendly jute-based bag.",
+					"description": "Made from jute cellulose with natural binders and dyes, biodegradable and compostable.",
+					"extra": "Alternative to plastic bags, promoting sustainability."
+				},
+				"image": "images/inventions/asia/bangladesh/sonali_bag.webp"
+			}
+		]
+	},
+	{
+		"country": "Myanmar (Burma)",
+		"inventions": [
+			{
+				"name": "Traditional Lacquerware",
+				"inventor": "Burmese artisans",
+				"year": "1200s",
+				"information": {
+					"general": "Handmade lacquered bowls and decorative items.",
+					"description": "Layers of lacquer applied to bamboo, paper, or wood with intricate designs.",
+					"extra": "Used for both practical and ceremonial purposes."
+				},
+				"image": "images/inventions/asia/myanmar/burmese_lacquerware.webp"
+			},
+			{
+				"name": "Bamboo Long-Boat",
+				"inventor": "Ethnic river communities of Myanmar",
+				"year": "500 BC",
+				"information": {
+					"general": "Long narrow bamboo boats for river transport.",
+					"description": "Lightweight, sturdy design ideal for rivers and trade.",
+					"extra": "Reflects adaptation to Myanmar's river geography."
+				},
+				"image": "images/inventions/asia/myanmar/burmese_bamboo_boat.webp"
+			}
+		]
+	},
+	{
+		"country": "Mali",
+		"inventions": [
+			{
+				"name": "Kora",
+				"inventor": "Mandinka griot musicians",
+				"year": "1200s",
+				"information": {
+					"general": "21-stringed harp-lute central to West African music.",
+					"description": "Calabash resonator with hardwood neck; played with thumbs and fingers.",
+					"extra": "Used for storytelling and praise-singing."
+				},
+				"image": "images/inventions/africa/mali/kora_instrument.webp"
+			},
+			{
+				"name": "M'Bolon",
+				"inventor": "Mandinka cultural communities",
+				"year": "1300s",
+				"information": {
+					"general": "Percussion instrument made from calabash and calfskin.",
+					"description": "Used to produce rhythmic sounds for ceremonies.",
+					"extra": "Played at weddings, funerals, and festivals."
+				},
+				"image": "images/inventions/africa/mali/mbolon_instrument.webp"
+			}
+		]
+	},
+	{
+		"country": "Niger",
+		"inventions": [
+			{
+				"name": "Tuareg Camel-Saddle Bags",
+				"inventor": "Tuareg craftsmen",
+				"year": "800",
+				"information": {
+					"general": "Leather bags for camel caravans.",
+					"description": "Durable design for transporting goods in the Sahara.",
+					"extra": "Represents centuries of nomadic innovation."
+				},
+				"image": "images/inventions/africa/niger/tuareg_saddle_bag.webp"
+			},
+			{
+				"name": "Tuareg Silver Cross (Agadez Cross)",
+				"inventor": "Tuareg silversmiths of Agadez",
+				"year": "1400s",
+				"information": {
+					"general": "A symbolic silver pendant worn by the Tuareg people.",
+					"description": "Hand-forged from silver, the Agadez Cross was traditionally given to Tuareg boys when they came of age and represented protection and guidance in the desert.",
+					"extra": "The design originated in the Agadez region of Niger and later became an unofficial national symbol."
+				},
+				"image": "images/inventions/africa/niger/agadez_cross.webp"
+			}
+		]
+	},
+	{
+		"country": "Yemen",
+		"inventions": [
+			{
+				"name": "Qadad Plastering",
+				"inventor": "Ancient Yemeni builders",
+				"year": "500 BC",
+				"information": {
+					"general": "Waterproof plaster used in construction.",
+					"description": "Mixture of lime, volcanic ash, and organic oils for durable walls.",
+					"extra": "Used in ancient dams and buildings, including Marib Dam."
+				},
+				"image": "images/inventions/asia/yemen/qadad_plastering.webp"
+			},
+			{
+				"name": "Jambiya Dagger",
+				"inventor": "Yemeni blacksmiths",
+				"year": "1000s",
+				"information": {
+					"general": "Curved dagger worn as a symbol of status.",
+					"description": "Steel blade with decorated handle and sheath.",
+					"extra": "Represents Yemeni heritage and traditional craftsmanship."
+				},
+				"image": "images/inventions/asia/yemen/jambiya_dagger.webp"
+			}
+		]
+	},
+	{
+		"country": "Israel",
+		"inventions": [
+			{
+				"name": "Iron Dome",
+				"inventor": "Rafael Advanced Defense Systems",
+				"year": "2011",
+				"information": {
+					"general": "The Iron Dome was developed to intercept short-range rockets and artillery shells in real time.",
+					"description": "Using radar and advanced tracking software, the system detects incoming threats and launches interceptors to neutralize them mid-air.",
+					"extra": "The project was inspired by the need to protect civilian populations from increasing rocket attacks. Iron Dome has since become a global model for missile defense systems."
+				},
+				"image": "images/inventions/asia/israel/iron_dome.webp"
+			},
+			{
+				"name": "USB Flash Drive",
+				"inventor": "Dov Moran",
+				"year": "1998",
+				"information": {
+					"general": "Dov Moran invented the USB flash drive to replace floppy disks with a more reliable and portable storage device.",
+					"description": "It uses flash memory and a USB interface, allowing users to store and transfer data easily between computers without additional software.",
+					"extra": "Moran's inspiration came from the growing need for compact, high-capacity storage. Today, USB drives are ubiquitous worldwide."
+				},
+				"image": "images/inventions/asia/israel/usb_flash_drive.webp"
+			},
+			{
+				"name": "Waze",
+				"inventor": "Uri Levine, Ehud Shabtai, Amir Shinar",
+				"year": "2006",
+				"information": {
+					"general": "Waze was developed to provide real-time navigation based on crowd-sourced traffic information.",
+					"description": "The app collects user-reported data to suggest faster routes, alerting drivers to traffic jams, accidents, and hazards.",
+					"extra": "Inspired by the challenges of daily commuting in congested cities, Waze revolutionized GPS navigation and social mapping worldwide."
+				},
+				"image": "images/inventions/asia/israel/waze.webp"
+			}
+		]
+	},
+	{
+		"country": "Singapore",
+		"inventions": [
+			{
+				"name": "Water-jet Pack",
+				"inventor": "JetLev",
+				"year": "2012",
+				"information": {
+					"general": "The water-jet pack was created to allow humans to fly above water using pressurized water streams.",
+					"description": "It uses a powerful water pump connected to a personal flight device, propelling the user into the air for recreation or rescue operations.",
+					"extra": "Inspired by the popularity of water sports in Singapore, this invention merged thrill with innovation, influencing personal aquatic flight technologies globally."
+				},
+				"image": "images/inventions/asia/singapore/water_jet_pack.webp"
+			},
+			{
+				"name": "Virtual Museums",
+				"inventor": "Lin Hsin Hsin",
+				"year": "1994",
+				"information": {
+					"general": "Virtual museums allow users to explore museum exhibits online through interactive digital platforms.",
+					"description": "The first virtual museum was created at the Lin Hsin Hsin Art Museum, utilizing early web technology to present art and cultural artifacts digitally.",
+					"extra": "This pioneering innovation made cultural heritage accessible over the internet and inspired subsequent developments in online museum experiences globally."
+				},
+				"image": "images/inventions/asia/singapore/virtual_museums.webp"
+			}
+		]
+	},
+	{
+		"country": "Nepal",
+		"inventions": [
+			{
+				"name": "Lokta Paper",
+				"inventor": "Traditional Nepali craftsmen",
+				"year": "1370",
+				"information": {
+					"general": "Handmade paper made from inner bark of Nepal's lokta shrubs, durable and resistant to tearing, humidity, insects and mildew.",
+					"description": "Lokta paper, also called Nepali kagaj, is produced from the fibrous inner bark of shrubs of the genus Daphne (Daphne bholua and Daphne papyracea). Historically it was used for religious scriptures and government documents.",
+					"extra": "Surviving documents printed on lokta paper date back to at least 1370, and the tradition continues to contribute to arts, official documents, and cultural heritage in Nepal."
+				},
+				"image": "images/inventions/asia/nepal/lokta_paper.webp"
+			},
+			{
+				"name": "Himalayan Rope Bridges",
+				"inventor": "Nepalese Communities",
+				"year": "Ancient",
+				"information": {
+					"general": "These suspension bridges were invented to cross gorges and rivers in mountainous regions.",
+					"description": "Constructed with ropes and wooden planks, they offer a flexible yet stable pathway for people and animals.",
+					"extra": "Inspired by the challenging terrain of Nepal, these bridges became critical infrastructure for local trade and travel, influencing modern suspension bridge techniques."
+				},
+				"image": "images/inventions/asia/nepal/rope_bridge.webp"
+			},
+			{
+				"name": "Ginger (robot-waiter)",
+				"inventor": "Paaila Technology",
+				"year": "2018",
+				"information": {
+					"general": "Autonomous service robot developed in Nepal for use in restaurants.",
+					"description": "Ginger serves food by picking up dishes from the kitchen and delivering them to tables, supporting voice recognition, navigation, and automatic docking.",
+					"extra": "Ginger was deployed at Naulo Restaurant – Nepal's first 'digitized robot restaurant' in South Asia. The robot demonstrates that Nepali engineers can develop commercial service robots."
+				},
+				"image": "images/inventions/asia/nepal/ginger_robot_waiter.webp"
+			}
+		]
+	},
+	{
+		"country": "Sri Lanka",
+		"inventions": [
+			{
+				"name": "Ceylon Cinnamon Processing",
+				"inventor": "Ancient Sri Lankan Communities",
+				"year": "Ancient",
+				"information": {
+					"general": "A method to harvest and process cinnamon efficiently for trade and consumption.",
+					"description": "The technique involves peeling, drying, and rolling bark to produce aromatic, high-quality cinnamon sticks.",
+					"extra": "Inspired by abundant cinnamon trees, this method established Sri Lanka as a global leader in spice production."
+				},
+				"image": "images/inventions/asia/sri_lanka/cinnamon_processing.webp"
+			},
+			{
+				"name": "Stilt Fishing",
+				"inventor": "Coastal Sri Lankan Fishermen",
+				"year": "Ancient",
+				"information": {
+					"general": "A fishing method using vertical poles embedded in shallow waters for catching fish.",
+					"description": "Fishermen balance on stilts above the water while casting lines to catch fish efficiently.",
+					"extra": "Inspired by the need to fish in areas with strong currents or shallow reefs, stilt fishing became a cultural icon and practical solution."
+				},
+				"image": "images/inventions/asia/sri_lanka/stilt_fishing.webp"
+			}
+		]
+	},
+	{
+		"country": "Bhutan",
+		"inventions": [
+			{
+				"name": "Dzong Architecture",
+				"inventor": "Bhutanese Monastic Builders",
+				"year": "Ancient",
+				"information": {
+					"general": "A unique fortress-monastery design combining defense and spirituality.",
+					"description": "Dzongs feature massive walls, courtyards, temples, and administrative areas harmoniously integrated into the landscape.",
+					"extra": "Inspired by strategic defense and Buddhist principles, these structures define Bhutanese culture and architecture."
+				},
+				"image": "images/inventions/asia/bhutan/dzong_architecture.webp"
+			},
+			{
+				"name": "Prayer Wheel Mechanism",
+				"inventor": "Bhutanese Monks",
+				"year": "Ancient",
+				"information": {
+					"general": "A device to rotate cylindrical prayer wheels for spiritual merit.",
+					"description": "Mechanisms allow continuous rotation, with inscribed mantras inside, activating blessings as wheels turn.",
+					"extra": "Inspired by Buddhist devotion practices, these wheels are both spiritual tools and engineering feats in traditional woodcraft."
+				},
+				"image": "images/inventions/asia/bhutan/prayer_wheel.webp"
+			}
+		]
+	},
+	{
+		"country": "Jordan",
+		"inventions": [
+			{
+				"name": "Desalination Techniques",
+				"inventor": "Jordanian Engineers",
+				"year": "2000s",
+				"information": {
+					"general": "Advanced methods to convert seawater into drinking water.",
+					"description": "Reverse osmosis and solar-powered desalination systems help mitigate water scarcity.",
+					"extra": "Inspired by the country's arid climate, these technologies support sustainable water management and agriculture."
+				},
+				"image": "images/inventions/asia/jordan/desalination.webp"
+			},
+			{
+				"name": "Petra Water Channel System",
+				"inventor": "Nabataean Civilization",
+				"year": "2nd century BCE",
+				"information": {
+					"general": "Ingenious water management channels and cisterns in the desert city of Petra.",
+					"description": "The system collects and stores rainwater, distributing it throughout the city for agriculture and daily use.",
+					"extra": "Inspired by arid conditions, it demonstrates early hydraulic engineering and resourcefulness of ancient civilizations."
+				},
+				"image": "images/inventions/asia/jordan/petra_water_system.webp"
+			}
+		]
+	},
+	{
+		"country": "Lebanon",
+		"inventions": [
+			{
+				"name": "Cedars Timber Construction",
+				"inventor": "Ancient Lebanese Builders",
+				"year": "Ancient",
+				"information": {
+					"general": "Use of durable cedar wood for construction and shipbuilding.",
+					"description": "Cedar timber is lightweight, aromatic, and resistant to pests, ideal for temples, palaces, and vessels.",
+					"extra": "Inspired by abundant cedar forests, this innovation influenced architecture and naval design in the Mediterranean region."
+				},
+				"image": "images/inventions/asia/lebanon/cedars_timber.webp"
+			},
+			{
+				"name": "Phoenician Alphabet",
+				"inventor": "Phoenicians",
+				"year": "c. 1050 BCE",
+				"information": {
+					"general": "One of the first phonetic writing systems, influencing alphabets worldwide.",
+					"description": "Simplified symbols represent sounds, enabling easier writing and record-keeping than complex pictographs.",
+					"extra": "Inspired by the need for efficient trade communication, it became the foundation for Greek, Latin, and modern alphabets."
+				},
+				"image": "images/inventions/asia/lebanon/phoenician_alphabet.webp"
+			}
+		]
+	},
+	{
+		"country": "Estonia",
+		"inventions": [
+			{
+				"name": "Skype",
+				"inventor": "Estonian Developers",
+				"year": "2003",
+				"information": {
+					"general": "A revolutionary VoIP software enabling voice and video communication over the internet.",
+					"description": "Skype allows real-time audio and video calls, as well as instant messaging, connecting people globally.",
+					"extra": "Inspired by the need for seamless global communication, it became one of the most widely used communication platforms worldwide."
+				},
+				"image": "images/inventions/europe/estonia/skype.webp"
+			},
+			{
+				"name": "e-Residency Program",
+				"inventor": "Government of Estonia",
+				"year": "2014",
+				"information": {
+					"general": "A digital identity program allowing global entrepreneurs to start and run an EU-based company online.",
+					"description": "e-Residents can access Estonian services, sign documents digitally, and manage a business without being physically present.",
+					"extra": "This innovative approach to digital governance has inspired other nations to explore similar programs."
+				},
+				"image": "images/inventions/europe/estonia/e_residency.webp"
+			}
+		]
+	},
+	{
+		"country": "Latvia",
+		"inventions": [
+			{
+				"name": "Air Baltic (National Airline Innovation)",
+				"inventor": "Latvian Aviation Engineers",
+				"year": "1995",
+				"information": {
+					"general": "An innovative airline model connecting Northern and Eastern Europe efficiently.",
+					"description": "Air Baltic pioneered low-cost and regionally-focused airline operations, improving accessibility to the Baltics.",
+					"extra": "Inspired by Latvia's geographic position, it became a model for regional airline networks."
+				},
+				"image": "images/inventions/europe/latvia/air_baltic.webp"
+			},
+			{
+				"name": "Laima Confectionery Innovations",
+				"inventor": "Latvian Chocolatiers",
+				"year": "19th–20th Century",
+				"information": {
+					"general": "Development of unique chocolate recipes and packaging innovations.",
+					"description": "Laima introduced high-quality, creatively packaged chocolates that became a cultural symbol.",
+					"extra": "These innovations helped establish Latvia's reputation in confectionery across Europe."
+				},
+				"image": "images/inventions/europe/latvia/laima_chocolate.webp"
+			}
+		]
+	},
+	{
+		"country": "Serbia",
+		"inventions": [
+			{
+				"name": "Tesla's Alternating Current (AC) Motor",
+				"inventor": "Nikola Tesla",
+				"year": "1887",
+				"information": {
+					"general": "A revolutionary AC motor design enabling efficient electricity transmission over long distances.",
+					"description": "Tesla's motor converts electrical energy into mechanical energy using alternating current principles.",
+					"extra": "Inspired by the need for efficient power distribution, it laid the foundation for modern electric power systems."
+				},
+				"image": "images/inventions/europe/serbia/tesla_ac_motor.webp"
+			},
+			{
+				"name": "Pupin Coil",
+				"inventor": "Mihajlo Pupin",
+				"year": "1899",
+				"information": {
+					"general": "An induction coil used to extend the range of long-distance telephone lines.",
+					"description": "By inserting coils at intervals along telephone lines, Pupin drastically reduced signal loss, enabling clearer long-distance communication.",
+					"extra": "This invention revolutionized telecommunications and laid the groundwork for modern telephone networks."
+				},
+				"image": "images/inventions/europe/serbia/pupin_coil.webp"
+			},
+			{
+				"name": "Manual Hair Clippers",
+				"inventor": "Nikola Bizumić",
+				"year": "1870s",
+				"information": {
+					"general": "A hand-operated device for cutting hair, predecessor to modern hair clippers.",
+					"description": "Bizumić’s invention allowed barbers to cut hair more efficiently and uniformly, revolutionizing grooming tools.",
+					"extra": "Inspired by the need for faster and more precise haircuts, it became widely adopted in Europe and beyond."
+				},
+				"image": "images/inventions/europe/serbia/nikola_bizumic_hair_clippers.webp"
+			}
+		]
+	},
+	{
+		"country": "Guatemala",
+		"inventions": [
+			{
+				"name": "Maya Calendar",
+				"inventor": "Ancient Maya Civilization",
+				"year": "c. 2000 BCE – 900 CE",
+				"information": {
+					"general": "A sophisticated system for tracking time and astronomical events.",
+					"description": "The calendar combined solar, lunar, and ritual cycles, allowing precise agricultural and ceremonial planning.",
+					"extra": "It influenced modern understanding of astronomy and timekeeping."
+				},
+				"image": "images/inventions/north_america/guatemala/maya_calendar.webp"
+			},
+			{
+				"name": "Chocolate Production",
+				"inventor": "Ancient Maya Civilization",
+				"year": "c. 1500 BCE",
+				"information": {
+					"general": "The Maya were among the first to cultivate cacao and produce chocolate beverages.",
+					"description": "Cacao beans were fermented, roasted, and ground to make drinks used in rituals and daily life.",
+					"extra": "This tradition laid the foundation for modern chocolate production worldwide."
+				},
+				"image": "images/inventions/north_america/guatemala/maya_chocolate.webp"
+			},
+			{
+				"name": "Mayan Rubber Ball",
+				"inventor": "Ancient Maya Civilization",
+				"year": "c. 1600 BCE",
+				"information": {
+					"general": "Early use of natural rubber to create balls for games and ceremonial activities.",
+					"description": "These balls were used in the Mesoamerican ballgame, a ritual and recreational sport.",
+					"extra": "It represents one of the earliest known uses of processed rubber."
+				},
+				"image": "images/inventions/north_america/guatemala/maya_rubber_ball.webp"
+			}
+		]
+	},
+	{
+		"country": "Costa Rica",
+		"inventions": [
+			{
+				"name": "Traditional Oxcart",
+				"inventor": "Costa Rican Craftsmen",
+				"year": "19th Century",
+				"information": {
+					"general": "Colorful, hand-painted wooden oxcarts used for transporting coffee and goods.",
+					"description": "Crafted with intricate designs and symbols, these oxcarts became a cultural icon of Costa Rica.",
+					"extra": "Originally a practical tool for coffee transport, it is now recognized as a national symbol and UNESCO heritage tradition."
+				},
+				"image": "images/inventions/north_america/costa_rica/traditional_oxcart.webp"
+			},
+			{
+				"name": "Ecotourism Model",
+				"inventor": "Costa Rican Conservationists",
+				"year": "Late 20th Century",
+				"information": {
+					"general": "A global model combining tourism with environmental conservation.",
+					"description": "Protected areas and national parks were promoted as tourist destinations while preserving biodiversity.",
+					"extra": "This approach has influenced ecotourism policies worldwide."
+				},
+				"image": "images/inventions/north_america/costa_rica/ecotourism_model.webp"
+			}
+		]
+	},
+	{
+		"country": "Honduras",
+		"inventions": [
+			{
+				"name": "Traditional Textile Weaving",
+				"inventor": "Lenca and Maya Communities",
+				"year": "Pre-Columbian Period",
+				"information": {
+					"general": "Techniques for weaving fabrics with natural dyes and symbolic patterns.",
+					"description": "Used for clothing, ceremonial attire, and decorative purposes.",
+					"extra": "These traditional methods preserve cultural identity and inspired modern textile art."
+				},
+				"image": "images/inventions/north_america/honduras/traditional_weaving.webp"
+			},
+			{
+				"name": "Cacao Processing Techniques",
+				"inventor": "Ancient Maya Civilization",
+				"year": "c. 1500 BCE",
+				"information": {
+					"general": "Advanced methods of fermenting, roasting, and grinding cacao beans.",
+					"description": "Produced chocolate drinks for ceremonial and everyday consumption.",
+					"extra": "Laid the foundation for modern chocolate use in Central America and Europe."
+				},
+				"image": "images/inventions/north_america/honduras/maya_cacao.webp"
+			}
+		]
+	},
+	{
+		"country": "Panama",
+		"inventions": [
+			{
+				"name": "Panama Canal Locks System",
+				"inventor": "John Frank Stevens & George Washington Goethals",
+				"year": "1914",
+				"information": {
+					"general": "Completed in 1914, the Panama Canal locks system was engineered to allow ships to traverse between the Atlantic and Pacific Oceans efficiently.",
+					"description": "The canal uses a series of locks to raise and lower ships across the Isthmus of Panama, overcoming the difference in sea levels and terrain. It revolutionized global trade by drastically shortening shipping routes.",
+					"extra": "While not a single inventor, John Frank Stevens and George Washington Goethals were instrumental in the canal’s construction and engineering. The system remains a vital maritime route and a symbol of engineering ingenuity."
+				},
+				"image": "images/inventions/americas/panama/panama_canal_locks.webp"
+			},
+			{
+				"name": "Panama Hat (Exported globally)",
+				"inventor": "Ecuadorian origin, popularized in Panama",
+				"year": "19th century",
+				"information": {
+					"general": "Although originally from Ecuador, the Panama hat gained worldwide recognition through the Panama trade routes and workers on the Panama Canal.",
+					"description": "Woven from the fibers of the toquilla straw, these lightweight hats are breathable and elegant. They became a symbol of tropical fashion, often associated with the isthmus.",
+					"extra": "The hat became globally famous when President Theodore Roosevelt was photographed wearing one during the Panama Canal construction. Panama became the central hub for export, giving the hat its modern name."
+				},
+				"image": "images/inventions/americas/panama/panama_hat.webp"
+			}
+		]
+	},
+	{
+		"country": "Chad",
+		"inventions": [
+			{
+				"name": "Adobe Fortress Architecture",
+				"inventor": "Sahelian Civilizations (Kanem-Bornu Region)",
+				"year": "Medieval Era",
+				"information": {
+					"general": "Chadian architects developed durable adobe fortifications adapted to arid climates.",
+					"description": "Built from mud-brick, these structures maintained cool interiors and resisted desert temperatures, influencing architecture across the Sahel.",
+					"extra": "The style can still be seen in old settlements and royal sites around the Kanem-Bornu area."
+				},
+				"image": "images/inventions/africa/chad/adobe_architecture.webp"
+			},
+			{
+				"name": "Rock Art Techniques of the Ennedi Plateau",
+				"inventor": "Ancient Saharan Peoples",
+				"year": "6000–1000 BCE",
+				"information": {
+					"general": "Chad is home to thousands of prehistoric rock paintings and engravings that represent early artistic innovation.",
+					"description": "Using natural pigments and stone carving tools, artists depicted wildlife, rituals, and daily life in stunning detail.",
+					"extra": "The Ennedi rock art is a UNESCO World Heritage treasure and one of Africa’s richest archaeological archives."
+				},
+				"image": "images/inventions/africa/chad/rock_art.webp"
+			}
+		]
+	},
+	{
+		"country": "Ghana",
+		"inventions": [
+			{
+				"name": "Kente Weaving",
+				"inventor": "Akan People (Ashanti & Ewe)",
+				"year": "Pre-1600s",
+				"information": {
+					"general": "Kente cloth is one of Africa’s most iconic textile innovations, originating from Ghana’s Ashanti and Ewe cultures.",
+					"description": "Woven on narrow-strip looms, Kente uses complex geometric patterns and vibrant colors, each with symbolic spiritual meanings.",
+					"extra": "Traditionally worn by royalty, Kente is now a global cultural symbol celebrated in fashion and ceremony."
+				},
+				"image": "images/inventions/africa/ghana/kente.webp"
+			},
+			{
+				"name": "The Akan Gold Weighing System",
+				"inventor": "Akan Civilization",
+				"year": "14th–18th Century",
+				"information": {
+					"general": "The Akan developed an advanced system of gold weights for trade, mathematics, and economic regulation.",
+					"description": "Bronze figurines and geometric brass weights represented standardized units, enabling precise measurement of gold dust, the region’s currency.",
+					"extra": "These weights also depict proverbs and stories, combining engineering with philosophy."
+				},
+				"image": "images/inventions/africa/ghana/goldweights.webp"
+			},
+			{
+				"name": "Veronica Bucket (Hygiene Device)",
+				"inventor": "Veronica Bekoe",
+				"year": "1990s",
+				"information": {
+					"general": "The Veronica Bucket is a Ghanaian handwashing invention widely used across Africa.",
+					"description": "It consists of a bucket with a tap placed above a basin, enabling running-water hygiene in areas without plumbing.",
+					"extra": "It played a crucial role during the Ebola and COVID-19 outbreaks, saving countless lives."
+				},
+				"image": "images/inventions/africa/ghana/veronica_bucket.webp"
+			}
+		]
+	},
+	{
+		"country": "Senegal",
+		"inventions": [
+			{
+				"name": "Traditional West African Gum Arabic Processing",
+				"inventor": "Wolof and Fulani Communities",
+				"year": "Ancient–Medieval Period",
+				"information": {
+					"general": "Senegalese communities refined natural techniques for harvesting and processing gum arabic, a critical global export.",
+					"description": "Collected from acacia trees, gum arabic is purified using methods perfected over generations for trade and preservation.",
+					"extra": "This innovation supports global industries such as food stabilization, cosmetics, and pharmaceuticals."
+				},
+				"image": "images/inventions/africa/senegal/gumarabic.webp"
+			},
+			{
+				"name": "The Kora (Musical Instrument Innovation)",
+				"inventor": "Mandinka Griots",
+				"year": "13th Century",
+				"information": {
+					"general": "The kora, a 21-string harp-lute, is one of West Africa's most important musical inventions, deeply tied to Senegalese griot culture.",
+					"description": "Made from a calabash resonator covered in cowhide, with a long hardwood neck, the kora creates melodic, harp-like tones.",
+					"extra": "It remains central to the storytelling and musical traditions of the region, and Senegal is one of its principal cultural homes."
+				},
+				"image": "images/inventions/africa/senegal/kora.webp"
+			}
+		]
+	}
+]
